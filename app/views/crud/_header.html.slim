@@ -1,0 +1,16 @@
+- content_for :top_search
+  = simple_form_for :filter,
+    url: send("#{@klass.model_name.param_key.pluralize}_path"),
+    html: { method: :get, class: 'navbar-form full-width noprint' } do |f|
+
+    .form-group
+      = f.input :term, input_html: { value: @term }, placeholder: 'Procurar', label: false
+      = button_tag type: :submit, class: 'btn btn-search' do
+        i.fa.fa-search
+
+- unless @readonly
+  ol.breadcrumb.pull-right.noprint
+    li = link_to send("new_#{@klass.model_name.param_key}_path") do
+        i.fa.fa-plus
+        |  Novo Registro
+h1.page-header = @klass.model_name.human

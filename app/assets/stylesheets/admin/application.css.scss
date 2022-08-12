@@ -1,0 +1,109 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require admin/1st_load_framework
+ *= require font-awesome
+ *= require admin/animate
+ *= require admin/style
+ *= require admin/style-responsive
+ *= require admin/default
+ *= require admin/bootstrap-switch
+ *= require_self
+ */
+.pull-right {
+  margin-top: -6px;
+}
+.padding-header {
+  padding-top: 20px;
+}
+.file_field {
+  padding-top: 1em;
+}
+
+.file_link {
+  display: inline-block;
+  color: black;
+  font-weight: bold;
+}
+
+.links {
+  padding-bottom: 2em;
+}
+
+.onlyprint {
+  display: none;
+}
+
+.btn-grid {
+  margin-top: 23px;
+}
+
+textarea {
+  height: 100px !important;
+}
+
+@media only screen and (max-width: 767px) {
+  /* Force table to not be like tables anymore */
+  table.table table,
+  table.table thead,
+  table.table tbody,
+  table.table th,
+  table.table td,
+  table.table tr {
+    display: block;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  table.table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  table.table tr {
+    border: 1px solid #ccc;
+  }
+
+  table.table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50%;
+    white-space: normal;
+    text-align: left;
+  }
+
+  table.table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  /*
+  Label the data
+  */
+  table.table td:before {
+    content: attr(data-title);
+  }
+}
+
+.bootstrap-switch {
+  margin-right: 15px;
+}

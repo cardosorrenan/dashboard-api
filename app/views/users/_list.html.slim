@@ -1,0 +1,14 @@
+table.table
+  thead
+    tr
+      th.center = User.human_attribute_name :email
+      th.center = User.human_attribute_name :name
+      th.noprint
+      th.noprint
+  tbody
+    - resources.each do |user|
+      tr
+        td = user.email
+        td = user.name
+
+        = render 'operations', resource: user, klass: User

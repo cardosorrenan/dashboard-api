@@ -1,0 +1,16 @@
+h1.page-header
+  | BYCODERS
+  small
+    = welcome_title_label
+  .row.padding-header
+    .col-md-3.col-sm-6
+      .widget.widget-stats.bg-blue
+        .stats-icon
+          i.fa.fa-male
+        .stats-info
+          h4 TOTAL DE CLIENTES
+          p = User.where(user_type: UserType::CLIENT).count
+        .stats-link
+          a href="#{url_for(users_path(user_type: :client))}"
+            | Detalhes
+            i.fa.fa-arrow-circle-o-right

@@ -1,0 +1,131 @@
+@media print {
+  body {
+    font-size: 11px;
+  }
+  .row {
+    margin-left: 0 !important;
+  }
+  .span12 {
+    width: 95% !important;
+  }
+  .container {
+    margin: 0 0 0 2%;
+  }
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  .noprint {
+    display:none;
+  }
+  .onlyprint {
+    display: block;
+  }
+  .page-break {
+    page-break-after: always !important;
+    page-break-inside: avoid !important;
+  }
+
+  h1, .page-header {
+    font-size: 20px;
+    margin: 5px 5px 5px 0 !important;
+  }
+  h2 {
+    font-size: 18px;
+    margin: 5px 5px 5px 0 !important;
+  }
+  h3 {
+    font-size: 16px;
+    margin: 5px 5px 5px 0 !important;
+  }
+  h4 {
+    margin: 5px 5px 5px 0 !important;
+    font-size: 14px;
+  }
+  h5 {
+    margin: 5px 5px 5px 0 !important;
+    font-size: 12px;
+  }
+
+  [class*="col-"] {
+    margin: 0 15px 0 0 !important;
+    padding: 0 !important;
+    float: left;
+  }
+
+  .content, .panel-body, .page-header-fixed {
+    margin: 0;
+    padding: 0;
+  }
+
+  .pagination-centered {
+    display: none;
+  }
+
+  .tab-content, .tab-pane, .content, .container {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    overflow: visible !important;
+    width: 100% !important;
+  }
+
+  table.table {
+    width: 100% !important;
+
+    tr {
+      border: none;
+
+      td {
+        padding: 3px;
+
+        a[href]:after {
+          content: none !important;
+        }
+      }
+    }
+  }
+  table, table tr td {
+    border: 1px solid #cacaca;
+    font-size: 10px;
+    border-collapse: collapse;
+    padding: 4px;
+  }
+  table td.label-print,
+  table td.label-td { font-weight: bold; width: 45%; }
+  table td.bold { font-weight: bold;  }
+
+  .table-bordered {
+    border-collapse: collapse;
+  }
+
+  .well {
+    background-color: #bababa;
+    width: 40%;
+    margin: 20px;
+    float: left;
+    text-align: center;
+  }
+  .print-left {
+    float: left;
+  }
+  .print-clearfix {
+    clear: both;
+  }
+
+  .well {
+    margin-left: 0 0 0 15px;
+    padding: 0 10px;
+  }
+
+  .year-nav {
+    display: none;
+  }
+
+  .print-col {
+    float: left !important;
+    width: 45% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}

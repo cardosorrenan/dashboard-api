@@ -1,0 +1,36 @@
+doctype html
+html
+  head
+    meta[name="viewport" content="width=device-width, initial-scale=1.0"]
+    title
+      = content_for?(:title) ? yield(:title) : 'BYCODERS'
+
+    meta name="description" content="#{content_for?(:description) ? yield(:description) : 'BYCODERS'}"
+    meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"
+    meta content="" name="author"
+
+    == stylesheet_link_tag "admin/application", :media => 'all'
+    == javascript_include_tag 'admin/application'
+
+    == csrf_meta_tags
+
+    link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet"
+
+  body.pace-top
+    #page-loader.fade.in
+      span.spinner
+    .login-cover
+      .login-cover-image
+        = image_tag 'login-bg/bg-6.jpg'
+      .login-cover-bg
+    #page-container.fade
+      .login.login-v2 data-pageload-addclass=("animated fadeIn")
+        .login-header
+          .brand
+            span.logo
+            | BYCODERS
+          .icon
+            i.fa.fa-sign-in
+        .login-content
+          = render partial: '/layouts/messages'
+          = yield

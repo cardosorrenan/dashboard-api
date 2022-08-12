@@ -1,0 +1,19 @@
+= simple_form_for @resource do |f|
+  = f.input :user_type, as: :hidden, input_html: { value: session[:user_type] }
+  = f.input :email
+
+  #addresses
+    = f.simple_fields_for :addresses do |address|
+      = render '/addresses/fields', f: address
+    .links
+      = link_to_add_association 'Adicionar Endereço', f, :addresses, partial: '/addresses/fields', class: 'btn btn-default btn-sm'
+
+  hr.line
+  .row
+    .col-md-4
+      = f.input :password
+  .row
+    .col-md-4
+      = f.input :password_confirmation
+
+  = render 'form_buttons', f: f

@@ -1,0 +1,5 @@
+hr.line
+.btn-group
+  = f.submit 'Salvar', class: 'btn btn-primary btn-lg'
+  = f.submit 'Salvar e Fechar', class: 'btn btn-primary btn-lg'
+  = link_to 'Cancelar', send("#{@klass.model_name.param_key.pluralize}_path"), class: 'btn btn-default btn-lg'

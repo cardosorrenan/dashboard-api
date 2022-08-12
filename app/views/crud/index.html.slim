@@ -1,0 +1,11 @@
+= render 'header'
+
+.panel.panel-inverse
+  .panel-heading.noprint
+    h4.panel-title Gerenciamento
+
+  .panel-body
+    = render 'list', resources: @resources
+    
+  p
+    = will_paginate @resources, renderer: BootstrapPagination::Rails

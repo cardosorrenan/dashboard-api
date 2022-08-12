@@ -1,0 +1,13 @@
+td.text-center.noprint
+  = link_to send("edit_#{klass.model_name.param_key}_path", resource),
+    class: 'btn btn-success hint',
+    title: 'Alterar' do
+      i.fa.fa-pencil.no-margin
+
+td.text-center.noprint
+  = button_to send("#{klass.model_name.param_key}_path", resource),
+    method: :delete,
+    class: 'btn btn-danger hint delete',
+    title: 'Remover',
+    data: { confirm: 'Tem certeza que deseja remover?' } do
+      i.fa.fa-trash.no-margin

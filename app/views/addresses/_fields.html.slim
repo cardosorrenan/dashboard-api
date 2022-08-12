@@ -1,0 +1,17 @@
+.nested-fields.well
+  h5 Endereço
+  .row
+    .col-md-2
+      = f.input :zip_code, input_html: { class: 'cep-input' }
+  = f.input :street, input_html: { class: 'rua-input' }
+  .row
+    .col-md-1
+      = f.input :number
+  = f.input :neighborhood, input_html: { class: 'bairro-input' }
+  .row
+    .col-md-6
+      = f.input :city, input_html: { class: 'cidade-input' }
+  .row
+    .col-md-6
+      = f.input :state, as: :select, collection: State.to_a, input_html: { class: 'uf-input' }
+  = link_to_remove_association 'Remover endereço', f, class: 'btn btn-danger btn-sm'
