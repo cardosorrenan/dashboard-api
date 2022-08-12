@@ -1,7 +1,0 @@
-table.table
-  tbody
-    - resources.each do |item|
-      tr
-        td = item.to_s
-
-        = render 'operations', resource: item, klass: @klass
