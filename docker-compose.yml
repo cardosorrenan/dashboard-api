@@ -6,7 +6,7 @@ services:
     env_file: .env
     image: postgres:14-alpine
     container_name: dash-db
-    hostname: dash-db
+    hostname: ${POSTGRES_HOST}
     volumes:
       - data_db:/var/lib/postgresql/data
     environment:
@@ -47,4 +47,4 @@ volumes:
 
 networks:
   dash-network:
-    name: dash-network
+    driver: bridge
