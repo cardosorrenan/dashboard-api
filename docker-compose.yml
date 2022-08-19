@@ -1,12 +1,50 @@
 version: "3.9"
 
 services:
-  app:
+
+  dash-db:
+    env_file: .env
+    image: postgres:14-alpine
+    container_name: dash-db
+    hostname: ${POSTGRES_HOST}
+    volumes:
+      - data_db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - POSTGRES_DB=${POSTGRES_DB}
+    ports:
+      - "5433:5432"
+    networks:
+      - dash-network
+
+  dashboard-api:
     build: .
     container_name: dashboard-api
     command: >
-        sh -c "python manage.py runserver 0.0.0.0:8000"
+        sh -c "python manage.py migrate
+               python manage.py runserver 0.0.0.0:8000"
+    environment:
+      - POSTGRES_HOST=${POSTGRES_HOST}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - POSTGRES_DB=${POSTGRES_DB}
     volumes:
       - .:/usr/src/app/
+    links:
+      - dash-db:dash-db
     ports:
       - "8000:8000"
+    networks:
+      - dash-network
+    depends_on:
+      - dash-db
+
+volumes:
+  data_db:
+
+networks:
+  dash-network:
+    driver: bridge
