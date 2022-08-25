@@ -1,11 +1,12 @@
 from django.urls import path
-from knox import views as knox_views
-from . import views
+
+from knox.views import LogoutView
+
+from users.views import LoginView, RegisterAPI, RefreshToken
 
 urlpatterns = [
-    path('login/', views.login),
-    path('user/', views.get_user),
-    path('register/', views.register),
-    path('refresh/', views.register),
-    path('logout/', knox_views.LogoutView.as_view())
+    path('login/', LoginView.as_view(), name='user_login'),
+    path('register/', RegisterAPI.as_view(), name='user_register'),
+    path('refresh/', RefreshToken.as_view(), name='user_refresh_token'),
+    path('logout/', LogoutView.as_view(), name='user_logout'),
 ]
