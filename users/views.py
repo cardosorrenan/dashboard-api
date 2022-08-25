@@ -1,7 +1,8 @@
 from django.contrib.auth import login
 
 from rest_framework import status, generics
-from rest_framework.permissions import AllowAny
+from rest_framework.views import APIView
+from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from rest_framework.authtoken.serializers import AuthTokenSerializer
 
@@ -49,4 +50,14 @@ class RefreshToken(KnoxLoginView):
         
         expired_token.delete()    
         login(request, user)
-        return super(RefreshToken, self).post(request, format=None)
+        return super(RefreshToken, self).post(request, format=None)     
+
+
+class UserInfo(APIView):
+    permission_classes = (IsAuthenticated,)
+    serializer_class = UserSerializer
+    
+    def get(self, request, format=None):
+        user = self.serializer_class(request.user).data
+        return Response(user, status=status.HTTP_200_OK)
+        
