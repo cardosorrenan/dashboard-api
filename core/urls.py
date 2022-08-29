@@ -1,10 +1,12 @@
 
-from .views import HelloViewSet
+from core.views import PaymentSummaryCards, PaymentRecentsTable
 
 from django.urls import path
 
-hello_world = HelloViewSet.as_view({'get': 'list'})
+payments_summary_cards = PaymentSummaryCards.as_view({ 'get': 'list' })
+payments_recents_table = PaymentRecentsTable.as_view({ 'get': 'list' })
 
 urlpatterns = [
-    path(r'', hello_world),
+    path('payments/summary/', payments_summary_cards, name='payments_summary_cards'),
+    path('payments/recents/', payments_recents_table, name='payments_recents_table'),
 ]

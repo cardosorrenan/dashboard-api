@@ -1,0 +1,8002 @@
+[
+	{
+		"id": 1,
+		"merchand_id": 1,
+		"client_id": 3711,
+		"value": 89.88,
+		"datetime": "2020-11-11 10:15:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 2,
+		"merchand_id": 30,
+		"client_id": 9670,
+		"value": 107.03,
+		"datetime": "2021-06-30 01:47:30",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 3,
+		"merchand_id": 11,
+		"client_id": 6123,
+		"value": 128.32,
+		"datetime": "2021-10-02 11:50:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 4,
+		"merchand_id": 28,
+		"client_id": 7366,
+		"value": 79.33,
+		"datetime": "2020-09-06 11:10:52",
+		"status": "Pendente"
+	},
+	{
+		"id": 5,
+		"merchand_id": 6,
+		"client_id": 6661,
+		"value": 109.12,
+		"datetime": "2020-08-28 18:24:03",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 6,
+		"merchand_id": 4,
+		"client_id": 9997,
+		"value": 104.03,
+		"datetime": "2021-09-04 08:13:34",
+		"status": "Pendente"
+	},
+	{
+		"id": 7,
+		"merchand_id": 25,
+		"client_id": 1467,
+		"value": 92.62,
+		"datetime": "2021-03-31 03:22:24",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 8,
+		"merchand_id": 6,
+		"client_id": 8884,
+		"value": 99.19,
+		"datetime": "2020-08-28 10:06:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 9,
+		"merchand_id": 35,
+		"client_id": 6689,
+		"value": 116.30,
+		"datetime": "2021-03-11 12:44:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 10,
+		"merchand_id": 13,
+		"client_id": 2801,
+		"value": 104.64,
+		"datetime": "2021-01-06 21:22:29",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 11,
+		"merchand_id": 17,
+		"client_id": 1322,
+		"value": 86.79,
+		"datetime": "2021-07-11 13:19:18",
+		"status": "Aprovada"
+	},
+	{
+		"id": 12,
+		"merchand_id": 23,
+		"client_id": 5501,
+		"value": 106.59,
+		"datetime": "2021-08-09 22:43:48",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 13,
+		"merchand_id": 48,
+		"client_id": 2196,
+		"value": 74.26,
+		"datetime": "2021-11-10 09:46:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 14,
+		"merchand_id": 35,
+		"client_id": 9497,
+		"value": 79.19,
+		"datetime": "2022-02-26 02:48:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 15,
+		"merchand_id": 41,
+		"client_id": 3047,
+		"value": 133.28,
+		"datetime": "2020-10-23 13:10:03",
+		"status": "Aprovada"
+	},
+	{
+		"id": 16,
+		"merchand_id": 5,
+		"client_id": 3041,
+		"value": 90.50,
+		"datetime": "2021-03-12 03:12:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 17,
+		"merchand_id": 10,
+		"client_id": 1810,
+		"value": 112.12,
+		"datetime": "2020-10-09 23:05:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 18,
+		"merchand_id": 30,
+		"client_id": 3155,
+		"value": 82.04,
+		"datetime": "2021-06-30 11:22:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 19,
+		"merchand_id": 16,
+		"client_id": 7170,
+		"value": 73.12,
+		"datetime": "2022-05-12 18:04:55",
+		"status": "Pendente"
+	},
+	{
+		"id": 20,
+		"merchand_id": 19,
+		"client_id": 6787,
+		"value": 96.46,
+		"datetime": "2022-06-18 19:57:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 21,
+		"merchand_id": 45,
+		"client_id": 4092,
+		"value": 92.56,
+		"datetime": "2021-05-23 10:26:48",
+		"status": "Pendente"
+	},
+	{
+		"id": 22,
+		"merchand_id": 20,
+		"client_id": 4722,
+		"value": 110.27,
+		"datetime": "2022-05-28 10:17:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 23,
+		"merchand_id": 16,
+		"client_id": 8042,
+		"value": 65.43,
+		"datetime": "2020-08-18 16:19:17",
+		"status": "Pendente"
+	},
+	{
+		"id": 24,
+		"merchand_id": 16,
+		"client_id": 6040,
+		"value": 102.49,
+		"datetime": "2021-10-31 19:52:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 25,
+		"merchand_id": 46,
+		"client_id": 4379,
+		"value": 65.17,
+		"datetime": "2021-12-25 06:14:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 26,
+		"merchand_id": 39,
+		"client_id": 1570,
+		"value": 133.01,
+		"datetime": "2021-03-14 01:24:19",
+		"status": "Aprovada"
+	},
+	{
+		"id": 27,
+		"merchand_id": 31,
+		"client_id": 9607,
+		"value": 112.07,
+		"datetime": "2021-12-11 09:29:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 28,
+		"merchand_id": 29,
+		"client_id": 9293,
+		"value": 53.74,
+		"datetime": "2021-03-22 00:56:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 29,
+		"merchand_id": 33,
+		"client_id": 9298,
+		"value": 111.27,
+		"datetime": "2021-08-02 18:39:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 30,
+		"merchand_id": 42,
+		"client_id": 2770,
+		"value": 75.02,
+		"datetime": "2020-09-07 01:05:34",
+		"status": "Aprovada"
+	},
+	{
+		"id": 31,
+		"merchand_id": 9,
+		"client_id": 102,
+		"value": 119.72,
+		"datetime": "2021-08-19 12:58:27",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 32,
+		"merchand_id": 16,
+		"client_id": 2602,
+		"value": 67.33,
+		"datetime": "2021-06-02 23:18:06",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 33,
+		"merchand_id": 30,
+		"client_id": 1405,
+		"value": 83.68,
+		"datetime": "2022-03-01 16:44:59",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 34,
+		"merchand_id": 19,
+		"client_id": 6224,
+		"value": 109.74,
+		"datetime": "2022-06-20 03:19:29",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 35,
+		"merchand_id": 1,
+		"client_id": 8541,
+		"value": 87.92,
+		"datetime": "2021-06-20 02:11:56",
+		"status": "Pendente"
+	},
+	{
+		"id": 36,
+		"merchand_id": 15,
+		"client_id": 2736,
+		"value": 128.63,
+		"datetime": "2021-04-13 19:14:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 37,
+		"merchand_id": 23,
+		"client_id": 4878,
+		"value": 102.95,
+		"datetime": "2021-07-13 16:08:12",
+		"status": "Aprovada"
+	},
+	{
+		"id": 38,
+		"merchand_id": 2,
+		"client_id": 9297,
+		"value": 100.88,
+		"datetime": "2021-11-11 02:48:55",
+		"status": "Pendente"
+	},
+	{
+		"id": 39,
+		"merchand_id": 35,
+		"client_id": 2804,
+		"value": 126.16,
+		"datetime": "2021-05-27 01:37:31",
+		"status": "Aprovada"
+	},
+	{
+		"id": 40,
+		"merchand_id": 33,
+		"client_id": 4457,
+		"value": 95.10,
+		"datetime": "2020-11-17 02:45:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 41,
+		"merchand_id": 28,
+		"client_id": 7553,
+		"value": 143.10,
+		"datetime": "2021-06-13 04:34:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 42,
+		"merchand_id": 48,
+		"client_id": 8851,
+		"value": 116.81,
+		"datetime": "2021-03-23 19:30:36",
+		"status": "Aprovada"
+	},
+	{
+		"id": 43,
+		"merchand_id": 20,
+		"client_id": 2423,
+		"value": 108.94,
+		"datetime": "2021-01-13 02:18:52",
+		"status": "Pendente"
+	},
+	{
+		"id": 44,
+		"merchand_id": 1,
+		"client_id": 3535,
+		"value": 108.95,
+		"datetime": "2021-09-10 01:03:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 45,
+		"merchand_id": 36,
+		"client_id": 7437,
+		"value": 89.62,
+		"datetime": "2021-03-16 20:37:43",
+		"status": "Pendente"
+	},
+	{
+		"id": 46,
+		"merchand_id": 26,
+		"client_id": 787,
+		"value": 89.15,
+		"datetime": "2022-03-05 19:44:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 47,
+		"merchand_id": 14,
+		"client_id": 1575,
+		"value": 114.07,
+		"datetime": "2021-10-06 07:39:49",
+		"status": "Aprovada"
+	},
+	{
+		"id": 48,
+		"merchand_id": 4,
+		"client_id": 3877,
+		"value": 111.30,
+		"datetime": "2020-08-06 00:30:53",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 49,
+		"merchand_id": 49,
+		"client_id": 8668,
+		"value": 87.40,
+		"datetime": "2021-11-22 06:46:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 50,
+		"merchand_id": 36,
+		"client_id": 3815,
+		"value": 51.86,
+		"datetime": "2022-04-11 11:05:03",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 51,
+		"merchand_id": 13,
+		"client_id": 4903,
+		"value": 133.38,
+		"datetime": "2020-12-11 21:51:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 52,
+		"merchand_id": 12,
+		"client_id": 7466,
+		"value": 99.35,
+		"datetime": "2020-11-29 23:18:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 53,
+		"merchand_id": 12,
+		"client_id": 8559,
+		"value": 92.11,
+		"datetime": "2021-04-07 19:36:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 54,
+		"merchand_id": 31,
+		"client_id": 4873,
+		"value": 61.45,
+		"datetime": "2020-12-22 06:40:13",
+		"status": "Aprovada"
+	},
+	{
+		"id": 55,
+		"merchand_id": 31,
+		"client_id": 8863,
+		"value": 69.26,
+		"datetime": "2021-06-15 15:45:20",
+		"status": "Aprovada"
+	},
+	{
+		"id": 56,
+		"merchand_id": 7,
+		"client_id": 7215,
+		"value": 58.69,
+		"datetime": "2021-11-17 12:00:18",
+		"status": "Pendente"
+	},
+	{
+		"id": 57,
+		"merchand_id": 10,
+		"client_id": 6242,
+		"value": 131.48,
+		"datetime": "2022-02-26 15:17:20",
+		"status": "Pendente"
+	},
+	{
+		"id": 58,
+		"merchand_id": 22,
+		"client_id": 957,
+		"value": 86.46,
+		"datetime": "2022-07-20 15:29:48",
+		"status": "Aprovada"
+	},
+	{
+		"id": 59,
+		"merchand_id": 24,
+		"client_id": 5871,
+		"value": 107.88,
+		"datetime": "2021-03-09 13:08:00",
+		"status": "Pendente"
+	},
+	{
+		"id": 60,
+		"merchand_id": 7,
+		"client_id": 7777,
+		"value": 113.94,
+		"datetime": "2022-02-13 11:20:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 61,
+		"merchand_id": 40,
+		"client_id": 7429,
+		"value": 83.62,
+		"datetime": "2022-05-29 18:04:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 62,
+		"merchand_id": 20,
+		"client_id": 2615,
+		"value": 110.02,
+		"datetime": "2022-07-21 09:35:40",
+		"status": "Pendente"
+	},
+	{
+		"id": 63,
+		"merchand_id": 26,
+		"client_id": 6914,
+		"value": 101.01,
+		"datetime": "2021-12-17 20:54:40",
+		"status": "Pendente"
+	},
+	{
+		"id": 64,
+		"merchand_id": 48,
+		"client_id": 460,
+		"value": 132.46,
+		"datetime": "2021-04-11 19:42:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 65,
+		"merchand_id": 25,
+		"client_id": 8781,
+		"value": 116.03,
+		"datetime": "2021-10-29 05:53:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 66,
+		"merchand_id": 5,
+		"client_id": 19,
+		"value": 100.22,
+		"datetime": "2021-10-29 17:15:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 67,
+		"merchand_id": 29,
+		"client_id": 2868,
+		"value": 123.89,
+		"datetime": "2021-12-25 07:18:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 68,
+		"merchand_id": 35,
+		"client_id": 8455,
+		"value": 113.24,
+		"datetime": "2022-05-29 11:00:44",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 69,
+		"merchand_id": 8,
+		"client_id": 8989,
+		"value": 114.88,
+		"datetime": "2022-06-16 02:49:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 70,
+		"merchand_id": 27,
+		"client_id": 1326,
+		"value": 81.64,
+		"datetime": "2021-06-22 04:57:41",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 71,
+		"merchand_id": 10,
+		"client_id": 7524,
+		"value": 116.56,
+		"datetime": "2022-05-14 05:22:26",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 72,
+		"merchand_id": 6,
+		"client_id": 2833,
+		"value": 80.06,
+		"datetime": "2021-05-23 01:53:57",
+		"status": "Pendente"
+	},
+	{
+		"id": 73,
+		"merchand_id": 21,
+		"client_id": 2348,
+		"value": 130.21,
+		"datetime": "2022-05-10 05:30:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 74,
+		"merchand_id": 33,
+		"client_id": 6318,
+		"value": 99.67,
+		"datetime": "2020-12-03 23:06:04",
+		"status": "Aprovada"
+	},
+	{
+		"id": 75,
+		"merchand_id": 26,
+		"client_id": 9015,
+		"value": 37.42,
+		"datetime": "2022-03-31 16:02:20",
+		"status": "Aprovada"
+	},
+	{
+		"id": 76,
+		"merchand_id": 48,
+		"client_id": 323,
+		"value": 116.38,
+		"datetime": "2021-09-21 04:52:46",
+		"status": "Aprovada"
+	},
+	{
+		"id": 77,
+		"merchand_id": 19,
+		"client_id": 1002,
+		"value": 125.55,
+		"datetime": "2020-11-12 03:40:08",
+		"status": "Pendente"
+	},
+	{
+		"id": 78,
+		"merchand_id": 1,
+		"client_id": 5246,
+		"value": 106.58,
+		"datetime": "2021-09-09 00:49:31",
+		"status": "Pendente"
+	},
+	{
+		"id": 79,
+		"merchand_id": 40,
+		"client_id": 1872,
+		"value": 123.14,
+		"datetime": "2022-01-06 06:35:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 80,
+		"merchand_id": 21,
+		"client_id": 3702,
+		"value": 89.81,
+		"datetime": "2021-11-21 18:20:20",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 81,
+		"merchand_id": 9,
+		"client_id": 7979,
+		"value": 75.35,
+		"datetime": "2022-06-17 17:26:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 82,
+		"merchand_id": 47,
+		"client_id": 8956,
+		"value": 72.93,
+		"datetime": "2021-01-07 14:35:48",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 83,
+		"merchand_id": 37,
+		"client_id": 1382,
+		"value": 105.20,
+		"datetime": "2022-01-23 06:51:55",
+		"status": "Pendente"
+	},
+	{
+		"id": 84,
+		"merchand_id": 12,
+		"client_id": 1946,
+		"value": 70.57,
+		"datetime": "2021-06-24 07:52:45",
+		"status": "Aprovada"
+	},
+	{
+		"id": 85,
+		"merchand_id": 12,
+		"client_id": 2792,
+		"value": 86.84,
+		"datetime": "2022-02-06 15:44:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 86,
+		"merchand_id": 19,
+		"client_id": 2929,
+		"value": 100.84,
+		"datetime": "2022-07-11 06:28:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 87,
+		"merchand_id": 11,
+		"client_id": 5586,
+		"value": 99.65,
+		"datetime": "2021-08-03 16:23:47",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 88,
+		"merchand_id": 45,
+		"client_id": 1962,
+		"value": 83.38,
+		"datetime": "2021-03-17 10:23:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 89,
+		"merchand_id": 26,
+		"client_id": 1048,
+		"value": 101.96,
+		"datetime": "2020-12-31 18:09:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 90,
+		"merchand_id": 5,
+		"client_id": 4123,
+		"value": 90.55,
+		"datetime": "2022-03-01 12:55:44",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 91,
+		"merchand_id": 30,
+		"client_id": 6855,
+		"value": 124.80,
+		"datetime": "2022-01-23 02:22:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 92,
+		"merchand_id": 36,
+		"client_id": 9787,
+		"value": 124.45,
+		"datetime": "2020-11-26 03:41:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 93,
+		"merchand_id": 15,
+		"client_id": 8738,
+		"value": 127.41,
+		"datetime": "2021-03-15 04:14:01",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 94,
+		"merchand_id": 24,
+		"client_id": 4755,
+		"value": 73.07,
+		"datetime": "2021-01-15 00:38:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 95,
+		"merchand_id": 38,
+		"client_id": 2103,
+		"value": 74.56,
+		"datetime": "2021-02-10 15:47:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 96,
+		"merchand_id": 7,
+		"client_id": 3485,
+		"value": 54.23,
+		"datetime": "2022-06-19 06:00:57",
+		"status": "Aprovada"
+	},
+	{
+		"id": 97,
+		"merchand_id": 26,
+		"client_id": 1922,
+		"value": 105.86,
+		"datetime": "2022-02-14 19:19:22",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 98,
+		"merchand_id": 17,
+		"client_id": 263,
+		"value": 121.21,
+		"datetime": "2022-06-03 11:33:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 99,
+		"merchand_id": 10,
+		"client_id": 7763,
+		"value": 102.13,
+		"datetime": "2020-09-22 04:15:00",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 100,
+		"merchand_id": 9,
+		"client_id": 793,
+		"value": 108.43,
+		"datetime": "2021-04-25 17:57:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 101,
+		"merchand_id": 38,
+		"client_id": 5474,
+		"value": 99.20,
+		"datetime": "2022-07-16 13:55:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 102,
+		"merchand_id": 22,
+		"client_id": 526,
+		"value": 114.44,
+		"datetime": "2021-11-08 10:01:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 103,
+		"merchand_id": 27,
+		"client_id": 2906,
+		"value": 87.97,
+		"datetime": "2020-08-24 11:30:59",
+		"status": "Pendente"
+	},
+	{
+		"id": 104,
+		"merchand_id": 10,
+		"client_id": 1511,
+		"value": 65.97,
+		"datetime": "2020-08-14 14:02:13",
+		"status": "Pendente"
+	},
+	{
+		"id": 105,
+		"merchand_id": 40,
+		"client_id": 2940,
+		"value": 107.46,
+		"datetime": "2020-11-30 03:53:27",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 106,
+		"merchand_id": 33,
+		"client_id": 7566,
+		"value": 122.68,
+		"datetime": "2022-01-13 11:53:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 107,
+		"merchand_id": 46,
+		"client_id": 8770,
+		"value": 55.82,
+		"datetime": "2021-09-15 12:05:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 108,
+		"merchand_id": 4,
+		"client_id": 7293,
+		"value": 83.50,
+		"datetime": "2022-04-06 18:59:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 109,
+		"merchand_id": 3,
+		"client_id": 487,
+		"value": 88.98,
+		"datetime": "2022-07-23 06:44:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 110,
+		"merchand_id": 45,
+		"client_id": 2506,
+		"value": 94.50,
+		"datetime": "2022-04-10 23:28:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 111,
+		"merchand_id": 27,
+		"client_id": 171,
+		"value": 157.75,
+		"datetime": "2021-05-01 15:14:34",
+		"status": "Pendente"
+	},
+	{
+		"id": 112,
+		"merchand_id": 17,
+		"client_id": 2418,
+		"value": 69.86,
+		"datetime": "2021-02-19 07:50:02",
+		"status": "Pendente"
+	},
+	{
+		"id": 113,
+		"merchand_id": 48,
+		"client_id": 6456,
+		"value": 96.75,
+		"datetime": "2022-04-04 01:46:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 114,
+		"merchand_id": 7,
+		"client_id": 3809,
+		"value": 94.50,
+		"datetime": "2022-07-29 12:42:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 115,
+		"merchand_id": 15,
+		"client_id": 2238,
+		"value": 69.39,
+		"datetime": "2021-10-29 19:30:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 116,
+		"merchand_id": 32,
+		"client_id": 2118,
+		"value": 119.34,
+		"datetime": "2021-05-14 10:21:53",
+		"status": "Aprovada"
+	},
+	{
+		"id": 117,
+		"merchand_id": 6,
+		"client_id": 6065,
+		"value": 70.61,
+		"datetime": "2021-10-25 21:02:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 118,
+		"merchand_id": 43,
+		"client_id": 6194,
+		"value": 118.57,
+		"datetime": "2022-06-02 23:30:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 119,
+		"merchand_id": 27,
+		"client_id": 3838,
+		"value": 157.29,
+		"datetime": "2022-06-23 09:11:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 120,
+		"merchand_id": 30,
+		"client_id": 3014,
+		"value": 74.60,
+		"datetime": "2020-10-14 07:42:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 121,
+		"merchand_id": 15,
+		"client_id": 7471,
+		"value": 89.30,
+		"datetime": "2021-06-20 21:00:48",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 122,
+		"merchand_id": 36,
+		"client_id": 1822,
+		"value": 86.65,
+		"datetime": "2021-09-20 06:18:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 123,
+		"merchand_id": 6,
+		"client_id": 8712,
+		"value": 110.17,
+		"datetime": "2022-04-09 08:13:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 124,
+		"merchand_id": 43,
+		"client_id": 4578,
+		"value": 86.83,
+		"datetime": "2021-02-04 12:17:04",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 125,
+		"merchand_id": 3,
+		"client_id": 2599,
+		"value": 16.37,
+		"datetime": "2022-02-28 19:58:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 126,
+		"merchand_id": 9,
+		"client_id": 3028,
+		"value": 98.72,
+		"datetime": "2022-03-06 04:31:38",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 127,
+		"merchand_id": 29,
+		"client_id": 2870,
+		"value": 79.43,
+		"datetime": "2020-08-12 00:32:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 128,
+		"merchand_id": 47,
+		"client_id": 3288,
+		"value": 85.08,
+		"datetime": "2022-06-16 05:34:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 129,
+		"merchand_id": 18,
+		"client_id": 5959,
+		"value": 75.57,
+		"datetime": "2021-11-12 22:59:25",
+		"status": "Aprovada"
+	},
+	{
+		"id": 130,
+		"merchand_id": 18,
+		"client_id": 3514,
+		"value": 134.93,
+		"datetime": "2020-12-04 23:45:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 131,
+		"merchand_id": 4,
+		"client_id": 6749,
+		"value": 75.61,
+		"datetime": "2021-08-05 06:50:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 132,
+		"merchand_id": 42,
+		"client_id": 5978,
+		"value": 110.45,
+		"datetime": "2021-02-11 10:42:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 133,
+		"merchand_id": 36,
+		"client_id": 6126,
+		"value": 117.38,
+		"datetime": "2022-06-05 23:09:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 134,
+		"merchand_id": 37,
+		"client_id": 5543,
+		"value": 153.07,
+		"datetime": "2021-04-10 13:10:12",
+		"status": "Pendente"
+	},
+	{
+		"id": 135,
+		"merchand_id": 17,
+		"client_id": 3623,
+		"value": 119.45,
+		"datetime": "2021-12-10 22:28:03",
+		"status": "Aprovada"
+	},
+	{
+		"id": 136,
+		"merchand_id": 24,
+		"client_id": 4365,
+		"value": 99.31,
+		"datetime": "2022-01-20 06:11:53",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 137,
+		"merchand_id": 36,
+		"client_id": 6599,
+		"value": 127.54,
+		"datetime": "2021-02-19 09:46:39",
+		"status": "Aprovada"
+	},
+	{
+		"id": 138,
+		"merchand_id": 47,
+		"client_id": 4704,
+		"value": 122.93,
+		"datetime": "2021-06-08 17:25:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 139,
+		"merchand_id": 36,
+		"client_id": 1079,
+		"value": 59.72,
+		"datetime": "2022-03-02 15:39:38",
+		"status": "Pendente"
+	},
+	{
+		"id": 140,
+		"merchand_id": 30,
+		"client_id": 4504,
+		"value": 130.73,
+		"datetime": "2022-03-29 07:31:02",
+		"status": "Aprovada"
+	},
+	{
+		"id": 141,
+		"merchand_id": 20,
+		"client_id": 8906,
+		"value": 107.07,
+		"datetime": "2022-05-12 23:49:50",
+		"status": "Aprovada"
+	},
+	{
+		"id": 142,
+		"merchand_id": 42,
+		"client_id": 1290,
+		"value": 138.79,
+		"datetime": "2021-04-14 00:43:24",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 143,
+		"merchand_id": 49,
+		"client_id": 5844,
+		"value": 145.77,
+		"datetime": "2022-02-26 19:54:50",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 144,
+		"merchand_id": 49,
+		"client_id": 5641,
+		"value": 104.87,
+		"datetime": "2020-11-27 13:36:27",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 145,
+		"merchand_id": 35,
+		"client_id": 8483,
+		"value": 94.16,
+		"datetime": "2021-07-23 05:37:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 146,
+		"merchand_id": 4,
+		"client_id": 2973,
+		"value": 96.03,
+		"datetime": "2022-03-24 19:28:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 147,
+		"merchand_id": 41,
+		"client_id": 1698,
+		"value": 129.30,
+		"datetime": "2020-11-18 00:04:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 148,
+		"merchand_id": 29,
+		"client_id": 8899,
+		"value": 78.90,
+		"datetime": "2021-08-06 03:31:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 149,
+		"merchand_id": 15,
+		"client_id": 3562,
+		"value": 92.78,
+		"datetime": "2022-02-20 18:18:46",
+		"status": "Aprovada"
+	},
+	{
+		"id": 150,
+		"merchand_id": 48,
+		"client_id": 8076,
+		"value": 82.12,
+		"datetime": "2021-02-09 09:33:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 151,
+		"merchand_id": 21,
+		"client_id": 4721,
+		"value": 91.91,
+		"datetime": "2021-10-02 14:28:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 152,
+		"merchand_id": 28,
+		"client_id": 6220,
+		"value": 105.00,
+		"datetime": "2021-08-13 13:46:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 153,
+		"merchand_id": 31,
+		"client_id": 6421,
+		"value": 91.34,
+		"datetime": "2022-03-17 03:43:31",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 154,
+		"merchand_id": 15,
+		"client_id": 9156,
+		"value": 52.05,
+		"datetime": "2021-11-18 17:08:32",
+		"status": "Aprovada"
+	},
+	{
+		"id": 155,
+		"merchand_id": 7,
+		"client_id": 8621,
+		"value": 147.01,
+		"datetime": "2020-08-19 17:35:34",
+		"status": "Aprovada"
+	},
+	{
+		"id": 156,
+		"merchand_id": 9,
+		"client_id": 2866,
+		"value": 104.82,
+		"datetime": "2022-06-13 00:04:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 157,
+		"merchand_id": 38,
+		"client_id": 3158,
+		"value": 115.71,
+		"datetime": "2021-05-09 18:09:31",
+		"status": "Pendente"
+	},
+	{
+		"id": 158,
+		"merchand_id": 17,
+		"client_id": 8881,
+		"value": 115.43,
+		"datetime": "2021-08-21 13:57:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 159,
+		"merchand_id": 8,
+		"client_id": 8172,
+		"value": 117.86,
+		"datetime": "2020-11-24 19:48:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 160,
+		"merchand_id": 10,
+		"client_id": 6802,
+		"value": 97.79,
+		"datetime": "2021-06-25 15:30:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 161,
+		"merchand_id": 25,
+		"client_id": 4597,
+		"value": 97.58,
+		"datetime": "2021-02-21 19:14:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 162,
+		"merchand_id": 5,
+		"client_id": 7592,
+		"value": 121.35,
+		"datetime": "2021-07-14 07:55:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 163,
+		"merchand_id": 30,
+		"client_id": 3193,
+		"value": 141.29,
+		"datetime": "2021-04-20 04:20:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 164,
+		"merchand_id": 35,
+		"client_id": 9454,
+		"value": 82.19,
+		"datetime": "2022-05-06 10:32:52",
+		"status": "Aprovada"
+	},
+	{
+		"id": 165,
+		"merchand_id": 16,
+		"client_id": 8669,
+		"value": 88.37,
+		"datetime": "2020-08-24 13:48:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 166,
+		"merchand_id": 11,
+		"client_id": 2010,
+		"value": 115.16,
+		"datetime": "2020-10-11 04:44:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 167,
+		"merchand_id": 9,
+		"client_id": 1820,
+		"value": 147.15,
+		"datetime": "2022-07-03 10:33:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 168,
+		"merchand_id": 32,
+		"client_id": 1159,
+		"value": 53.98,
+		"datetime": "2022-07-03 06:26:24",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 169,
+		"merchand_id": 16,
+		"client_id": 3555,
+		"value": 89.80,
+		"datetime": "2022-03-07 12:04:11",
+		"status": "Pendente"
+	},
+	{
+		"id": 170,
+		"merchand_id": 16,
+		"client_id": 5897,
+		"value": 102.41,
+		"datetime": "2021-01-12 11:45:18",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 171,
+		"merchand_id": 18,
+		"client_id": 6933,
+		"value": 63.25,
+		"datetime": "2021-02-01 13:56:44",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 172,
+		"merchand_id": 38,
+		"client_id": 3788,
+		"value": 83.89,
+		"datetime": "2022-07-13 20:36:39",
+		"status": "Aprovada"
+	},
+	{
+		"id": 173,
+		"merchand_id": 28,
+		"client_id": 2638,
+		"value": 106.50,
+		"datetime": "2021-07-05 06:37:58",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 174,
+		"merchand_id": 31,
+		"client_id": 1610,
+		"value": 108.45,
+		"datetime": "2021-08-12 12:57:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 175,
+		"merchand_id": 42,
+		"client_id": 6994,
+		"value": 137.73,
+		"datetime": "2022-01-10 03:39:26",
+		"status": "Pendente"
+	},
+	{
+		"id": 176,
+		"merchand_id": 22,
+		"client_id": 4374,
+		"value": 102.75,
+		"datetime": "2022-02-21 03:47:08",
+		"status": "Pendente"
+	},
+	{
+		"id": 177,
+		"merchand_id": 16,
+		"client_id": 5850,
+		"value": 119.39,
+		"datetime": "2021-03-30 09:36:55",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 178,
+		"merchand_id": 17,
+		"client_id": 5567,
+		"value": 87.25,
+		"datetime": "2022-07-23 13:34:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 179,
+		"merchand_id": 6,
+		"client_id": 2238,
+		"value": 87.53,
+		"datetime": "2021-10-21 06:17:48",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 180,
+		"merchand_id": 37,
+		"client_id": 1634,
+		"value": 48.20,
+		"datetime": "2020-09-02 12:15:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 181,
+		"merchand_id": 15,
+		"client_id": 8122,
+		"value": 132.79,
+		"datetime": "2022-06-01 06:12:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 182,
+		"merchand_id": 17,
+		"client_id": 6506,
+		"value": 138.73,
+		"datetime": "2021-03-29 20:27:30",
+		"status": "Pendente"
+	},
+	{
+		"id": 183,
+		"merchand_id": 28,
+		"client_id": 1175,
+		"value": 115.39,
+		"datetime": "2021-04-06 07:24:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 184,
+		"merchand_id": 13,
+		"client_id": 6549,
+		"value": 137.04,
+		"datetime": "2021-04-23 17:53:04",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 185,
+		"merchand_id": 9,
+		"client_id": 2054,
+		"value": 84.66,
+		"datetime": "2021-12-23 08:25:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 186,
+		"merchand_id": 42,
+		"client_id": 3760,
+		"value": 62.18,
+		"datetime": "2021-10-04 06:46:55",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 187,
+		"merchand_id": 31,
+		"client_id": 4032,
+		"value": 114.05,
+		"datetime": "2022-07-17 05:51:29",
+		"status": "Aprovada"
+	},
+	{
+		"id": 188,
+		"merchand_id": 12,
+		"client_id": 8612,
+		"value": 98.35,
+		"datetime": "2021-08-20 06:59:15",
+		"status": "Aprovada"
+	},
+	{
+		"id": 189,
+		"merchand_id": 16,
+		"client_id": 3847,
+		"value": 100.00,
+		"datetime": "2022-02-11 15:37:34",
+		"status": "Aprovada"
+	},
+	{
+		"id": 190,
+		"merchand_id": 11,
+		"client_id": 6568,
+		"value": 89.48,
+		"datetime": "2020-08-08 09:36:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 191,
+		"merchand_id": 12,
+		"client_id": 7706,
+		"value": 99.21,
+		"datetime": "2021-07-27 14:33:35",
+		"status": "Pendente"
+	},
+	{
+		"id": 192,
+		"merchand_id": 10,
+		"client_id": 7701,
+		"value": 115.90,
+		"datetime": "2020-10-10 09:01:26",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 193,
+		"merchand_id": 2,
+		"client_id": 5970,
+		"value": 136.56,
+		"datetime": "2022-05-07 04:11:09",
+		"status": "Pendente"
+	},
+	{
+		"id": 194,
+		"merchand_id": 23,
+		"client_id": 8663,
+		"value": 140.28,
+		"datetime": "2022-02-16 03:06:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 195,
+		"merchand_id": 29,
+		"client_id": 5991,
+		"value": 118.08,
+		"datetime": "2022-03-27 01:57:50",
+		"status": "Aprovada"
+	},
+	{
+		"id": 196,
+		"merchand_id": 40,
+		"client_id": 1098,
+		"value": 60.70,
+		"datetime": "2022-04-08 05:18:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 197,
+		"merchand_id": 38,
+		"client_id": 6248,
+		"value": 88.11,
+		"datetime": "2020-08-05 15:20:06",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 198,
+		"merchand_id": 18,
+		"client_id": 6641,
+		"value": 126.30,
+		"datetime": "2021-01-03 21:20:45",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 199,
+		"merchand_id": 14,
+		"client_id": 4854,
+		"value": 64.87,
+		"datetime": "2021-11-01 01:28:25",
+		"status": "Pendente"
+	},
+	{
+		"id": 200,
+		"merchand_id": 42,
+		"client_id": 5054,
+		"value": 134.74,
+		"datetime": "2020-09-11 20:52:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 201,
+		"merchand_id": 23,
+		"client_id": 9134,
+		"value": 99.75,
+		"datetime": "2021-08-29 17:38:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 202,
+		"merchand_id": 5,
+		"client_id": 8101,
+		"value": 138.23,
+		"datetime": "2022-05-04 13:44:59",
+		"status": "Pendente"
+	},
+	{
+		"id": 203,
+		"merchand_id": 5,
+		"client_id": 7528,
+		"value": 86.43,
+		"datetime": "2021-03-21 10:09:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 204,
+		"merchand_id": 24,
+		"client_id": 1125,
+		"value": 94.05,
+		"datetime": "2020-08-28 11:15:00",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 205,
+		"merchand_id": 18,
+		"client_id": 6636,
+		"value": 92.23,
+		"datetime": "2021-06-18 18:30:18",
+		"status": "Aprovada"
+	},
+	{
+		"id": 206,
+		"merchand_id": 38,
+		"client_id": 4035,
+		"value": 88.22,
+		"datetime": "2020-12-19 07:51:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 207,
+		"merchand_id": 2,
+		"client_id": 2280,
+		"value": 89.83,
+		"datetime": "2021-10-02 22:50:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 208,
+		"merchand_id": 12,
+		"client_id": 6902,
+		"value": 104.00,
+		"datetime": "2022-04-08 02:19:50",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 209,
+		"merchand_id": 45,
+		"client_id": 6989,
+		"value": 86.44,
+		"datetime": "2020-10-30 12:52:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 210,
+		"merchand_id": 29,
+		"client_id": 7739,
+		"value": 127.84,
+		"datetime": "2022-04-26 22:10:57",
+		"status": "Pendente"
+	},
+	{
+		"id": 211,
+		"merchand_id": 44,
+		"client_id": 7737,
+		"value": 120.40,
+		"datetime": "2022-03-11 19:51:38",
+		"status": "Aprovada"
+	},
+	{
+		"id": 212,
+		"merchand_id": 42,
+		"client_id": 8619,
+		"value": 128.16,
+		"datetime": "2021-06-25 19:29:08",
+		"status": "Pendente"
+	},
+	{
+		"id": 213,
+		"merchand_id": 15,
+		"client_id": 238,
+		"value": 91.68,
+		"datetime": "2021-08-24 03:53:35",
+		"status": "Aprovada"
+	},
+	{
+		"id": 214,
+		"merchand_id": 3,
+		"client_id": 7544,
+		"value": 129.04,
+		"datetime": "2022-05-01 22:05:03",
+		"status": "Aprovada"
+	},
+	{
+		"id": 215,
+		"merchand_id": 46,
+		"client_id": 1637,
+		"value": 103.33,
+		"datetime": "2020-09-26 13:09:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 216,
+		"merchand_id": 2,
+		"client_id": 3138,
+		"value": 127.29,
+		"datetime": "2020-11-08 20:57:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 217,
+		"merchand_id": 46,
+		"client_id": 9084,
+		"value": 116.48,
+		"datetime": "2020-10-20 13:03:50",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 218,
+		"merchand_id": 8,
+		"client_id": 1006,
+		"value": 83.95,
+		"datetime": "2022-07-06 14:31:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 219,
+		"merchand_id": 20,
+		"client_id": 939,
+		"value": 113.21,
+		"datetime": "2021-03-19 08:01:27",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 220,
+		"merchand_id": 19,
+		"client_id": 1737,
+		"value": 104.47,
+		"datetime": "2022-05-20 10:32:00",
+		"status": "Pendente"
+	},
+	{
+		"id": 221,
+		"merchand_id": 33,
+		"client_id": 3945,
+		"value": 88.02,
+		"datetime": "2021-03-17 07:37:44",
+		"status": "Aprovada"
+	},
+	{
+		"id": 222,
+		"merchand_id": 48,
+		"client_id": 5252,
+		"value": 111.94,
+		"datetime": "2020-09-27 02:28:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 223,
+		"merchand_id": 16,
+		"client_id": 2545,
+		"value": 121.59,
+		"datetime": "2022-06-21 11:14:41",
+		"status": "Pendente"
+	},
+	{
+		"id": 224,
+		"merchand_id": 6,
+		"client_id": 1112,
+		"value": 98.36,
+		"datetime": "2021-08-02 22:52:29",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 225,
+		"merchand_id": 3,
+		"client_id": 3983,
+		"value": 140.52,
+		"datetime": "2021-02-13 15:39:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 226,
+		"merchand_id": 2,
+		"client_id": 2745,
+		"value": 142.60,
+		"datetime": "2020-11-06 09:00:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 227,
+		"merchand_id": 23,
+		"client_id": 6755,
+		"value": 84.55,
+		"datetime": "2022-05-23 22:49:09",
+		"status": "Aprovada"
+	},
+	{
+		"id": 228,
+		"merchand_id": 19,
+		"client_id": 1004,
+		"value": 87.48,
+		"datetime": "2021-03-31 13:41:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 229,
+		"merchand_id": 34,
+		"client_id": 8780,
+		"value": 63.97,
+		"datetime": "2021-10-18 18:17:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 230,
+		"merchand_id": 25,
+		"client_id": 9505,
+		"value": 28.03,
+		"datetime": "2021-08-19 09:43:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 231,
+		"merchand_id": 17,
+		"client_id": 5183,
+		"value": 126.21,
+		"datetime": "2021-09-11 16:15:18",
+		"status": "Aprovada"
+	},
+	{
+		"id": 232,
+		"merchand_id": 49,
+		"client_id": 4055,
+		"value": 104.88,
+		"datetime": "2022-01-20 14:12:16",
+		"status": "Pendente"
+	},
+	{
+		"id": 233,
+		"merchand_id": 23,
+		"client_id": 5959,
+		"value": 103.94,
+		"datetime": "2020-12-28 12:08:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 234,
+		"merchand_id": 18,
+		"client_id": 2208,
+		"value": 94.56,
+		"datetime": "2021-02-24 19:40:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 235,
+		"merchand_id": 48,
+		"client_id": 1623,
+		"value": 81.79,
+		"datetime": "2021-11-04 05:04:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 236,
+		"merchand_id": 2,
+		"client_id": 6166,
+		"value": 103.96,
+		"datetime": "2021-04-20 01:40:09",
+		"status": "Aprovada"
+	},
+	{
+		"id": 237,
+		"merchand_id": 47,
+		"client_id": 774,
+		"value": 70.34,
+		"datetime": "2020-09-29 16:19:56",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 238,
+		"merchand_id": 10,
+		"client_id": 3085,
+		"value": 107.70,
+		"datetime": "2021-03-20 15:47:23",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 239,
+		"merchand_id": 36,
+		"client_id": 1872,
+		"value": 109.96,
+		"datetime": "2020-12-27 20:04:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 240,
+		"merchand_id": 38,
+		"client_id": 607,
+		"value": 119.00,
+		"datetime": "2022-07-24 08:39:02",
+		"status": "Pendente"
+	},
+	{
+		"id": 241,
+		"merchand_id": 37,
+		"client_id": 3286,
+		"value": 117.74,
+		"datetime": "2020-08-22 17:28:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 242,
+		"merchand_id": 2,
+		"client_id": 9194,
+		"value": 89.00,
+		"datetime": "2022-06-06 18:54:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 243,
+		"merchand_id": 18,
+		"client_id": 5540,
+		"value": 84.02,
+		"datetime": "2022-06-07 01:02:38",
+		"status": "Aprovada"
+	},
+	{
+		"id": 244,
+		"merchand_id": 19,
+		"client_id": 4156,
+		"value": 112.23,
+		"datetime": "2021-01-22 07:25:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 245,
+		"merchand_id": 40,
+		"client_id": 1579,
+		"value": 114.26,
+		"datetime": "2022-06-21 04:25:13",
+		"status": "Pendente"
+	},
+	{
+		"id": 246,
+		"merchand_id": 27,
+		"client_id": 6841,
+		"value": 119.88,
+		"datetime": "2020-10-21 21:01:42",
+		"status": "Aprovada"
+	},
+	{
+		"id": 247,
+		"merchand_id": 7,
+		"client_id": 1154,
+		"value": 50.27,
+		"datetime": "2022-03-27 13:28:43",
+		"status": "Pendente"
+	},
+	{
+		"id": 248,
+		"merchand_id": 25,
+		"client_id": 7742,
+		"value": 137.68,
+		"datetime": "2021-10-06 10:45:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 249,
+		"merchand_id": 42,
+		"client_id": 2428,
+		"value": 40.99,
+		"datetime": "2021-01-12 04:16:00",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 250,
+		"merchand_id": 8,
+		"client_id": 6486,
+		"value": 112.26,
+		"datetime": "2021-06-13 11:24:28",
+		"status": "Aprovada"
+	},
+	{
+		"id": 251,
+		"merchand_id": 2,
+		"client_id": 2558,
+		"value": 102.43,
+		"datetime": "2020-09-04 00:32:53",
+		"status": "Aprovada"
+	},
+	{
+		"id": 252,
+		"merchand_id": 32,
+		"client_id": 2483,
+		"value": 107.31,
+		"datetime": "2022-05-01 11:42:49",
+		"status": "Pendente"
+	},
+	{
+		"id": 253,
+		"merchand_id": 42,
+		"client_id": 8548,
+		"value": 94.03,
+		"datetime": "2020-12-14 22:44:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 254,
+		"merchand_id": 50,
+		"client_id": 1568,
+		"value": 96.81,
+		"datetime": "2021-04-16 11:43:01",
+		"status": "Pendente"
+	},
+	{
+		"id": 255,
+		"merchand_id": 40,
+		"client_id": 3751,
+		"value": 101.37,
+		"datetime": "2021-07-01 04:33:18",
+		"status": "Aprovada"
+	},
+	{
+		"id": 256,
+		"merchand_id": 42,
+		"client_id": 8069,
+		"value": 39.89,
+		"datetime": "2021-02-16 06:39:32",
+		"status": "Aprovada"
+	},
+	{
+		"id": 257,
+		"merchand_id": 23,
+		"client_id": 3921,
+		"value": 81.61,
+		"datetime": "2020-08-11 15:49:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 258,
+		"merchand_id": 31,
+		"client_id": 6546,
+		"value": 98.41,
+		"datetime": "2021-12-29 19:13:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 259,
+		"merchand_id": 39,
+		"client_id": 4639,
+		"value": 129.49,
+		"datetime": "2021-06-19 13:01:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 260,
+		"merchand_id": 47,
+		"client_id": 9521,
+		"value": 118.76,
+		"datetime": "2021-07-14 18:20:56",
+		"status": "Pendente"
+	},
+	{
+		"id": 261,
+		"merchand_id": 33,
+		"client_id": 4627,
+		"value": 114.12,
+		"datetime": "2021-08-29 05:44:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 262,
+		"merchand_id": 17,
+		"client_id": 3346,
+		"value": 102.14,
+		"datetime": "2021-03-07 20:58:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 263,
+		"merchand_id": 31,
+		"client_id": 4828,
+		"value": 150.86,
+		"datetime": "2021-02-16 17:37:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 264,
+		"merchand_id": 13,
+		"client_id": 7270,
+		"value": 78.87,
+		"datetime": "2021-08-17 12:01:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 265,
+		"merchand_id": 12,
+		"client_id": 845,
+		"value": 125.07,
+		"datetime": "2020-09-02 16:45:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 266,
+		"merchand_id": 13,
+		"client_id": 8911,
+		"value": 75.27,
+		"datetime": "2021-09-08 14:14:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 267,
+		"merchand_id": 18,
+		"client_id": 4521,
+		"value": 129.23,
+		"datetime": "2022-07-07 15:49:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 268,
+		"merchand_id": 5,
+		"client_id": 5173,
+		"value": 123.93,
+		"datetime": "2020-09-09 10:18:12",
+		"status": "Pendente"
+	},
+	{
+		"id": 269,
+		"merchand_id": 7,
+		"client_id": 3852,
+		"value": 122.91,
+		"datetime": "2021-07-15 19:24:47",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 270,
+		"merchand_id": 4,
+		"client_id": 6131,
+		"value": 97.75,
+		"datetime": "2022-03-04 09:17:21",
+		"status": "Pendente"
+	},
+	{
+		"id": 271,
+		"merchand_id": 26,
+		"client_id": 2984,
+		"value": 107.79,
+		"datetime": "2021-10-31 04:52:16",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 272,
+		"merchand_id": 24,
+		"client_id": 9192,
+		"value": 107.93,
+		"datetime": "2022-04-12 04:31:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 273,
+		"merchand_id": 7,
+		"client_id": 3742,
+		"value": 116.26,
+		"datetime": "2020-12-08 14:24:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 274,
+		"merchand_id": 35,
+		"client_id": 9345,
+		"value": 114.35,
+		"datetime": "2020-10-09 01:25:09",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 275,
+		"merchand_id": 24,
+		"client_id": 3717,
+		"value": 97.84,
+		"datetime": "2021-08-08 02:01:13",
+		"status": "Pendente"
+	},
+	{
+		"id": 276,
+		"merchand_id": 24,
+		"client_id": 8847,
+		"value": 87.60,
+		"datetime": "2021-06-11 22:26:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 277,
+		"merchand_id": 16,
+		"client_id": 4983,
+		"value": 129.17,
+		"datetime": "2021-06-13 12:04:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 278,
+		"merchand_id": 27,
+		"client_id": 3666,
+		"value": 123.27,
+		"datetime": "2021-01-15 19:34:40",
+		"status": "Aprovada"
+	},
+	{
+		"id": 279,
+		"merchand_id": 41,
+		"client_id": 5959,
+		"value": 71.61,
+		"datetime": "2022-03-13 16:14:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 280,
+		"merchand_id": 16,
+		"client_id": 2061,
+		"value": 62.78,
+		"datetime": "2020-10-02 23:59:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 281,
+		"merchand_id": 16,
+		"client_id": 3155,
+		"value": 92.83,
+		"datetime": "2021-06-19 05:51:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 282,
+		"merchand_id": 20,
+		"client_id": 121,
+		"value": 92.27,
+		"datetime": "2022-05-01 09:46:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 283,
+		"merchand_id": 16,
+		"client_id": 257,
+		"value": 131.09,
+		"datetime": "2021-12-07 14:56:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 284,
+		"merchand_id": 47,
+		"client_id": 4621,
+		"value": 76.22,
+		"datetime": "2022-06-09 11:42:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 285,
+		"merchand_id": 41,
+		"client_id": 9786,
+		"value": 99.27,
+		"datetime": "2020-08-25 02:38:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 286,
+		"merchand_id": 17,
+		"client_id": 2651,
+		"value": 140.46,
+		"datetime": "2021-01-13 16:19:04",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 287,
+		"merchand_id": 21,
+		"client_id": 7668,
+		"value": 103.51,
+		"datetime": "2021-06-09 16:04:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 288,
+		"merchand_id": 6,
+		"client_id": 3620,
+		"value": 126.52,
+		"datetime": "2020-11-06 10:22:12",
+		"status": "Pendente"
+	},
+	{
+		"id": 289,
+		"merchand_id": 37,
+		"client_id": 3897,
+		"value": 93.88,
+		"datetime": "2020-08-16 22:54:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 290,
+		"merchand_id": 28,
+		"client_id": 1594,
+		"value": 86.95,
+		"datetime": "2020-12-23 18:58:23",
+		"status": "Pendente"
+	},
+	{
+		"id": 291,
+		"merchand_id": 6,
+		"client_id": 7874,
+		"value": 120.83,
+		"datetime": "2022-04-10 07:28:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 292,
+		"merchand_id": 37,
+		"client_id": 1446,
+		"value": 126.02,
+		"datetime": "2020-09-18 14:40:24",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 293,
+		"merchand_id": 36,
+		"client_id": 950,
+		"value": 142.54,
+		"datetime": "2022-01-13 19:02:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 294,
+		"merchand_id": 38,
+		"client_id": 6531,
+		"value": 66.04,
+		"datetime": "2021-12-07 15:51:24",
+		"status": "Aprovada"
+	},
+	{
+		"id": 295,
+		"merchand_id": 50,
+		"client_id": 3871,
+		"value": 75.29,
+		"datetime": "2021-02-21 17:18:50",
+		"status": "Aprovada"
+	},
+	{
+		"id": 296,
+		"merchand_id": 1,
+		"client_id": 2577,
+		"value": 121.30,
+		"datetime": "2022-05-28 19:33:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 297,
+		"merchand_id": 6,
+		"client_id": 5769,
+		"value": 114.09,
+		"datetime": "2022-04-06 14:41:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 298,
+		"merchand_id": 12,
+		"client_id": 9722,
+		"value": 108.09,
+		"datetime": "2020-11-18 01:19:03",
+		"status": "Aprovada"
+	},
+	{
+		"id": 299,
+		"merchand_id": 7,
+		"client_id": 5566,
+		"value": 81.50,
+		"datetime": "2022-04-13 01:54:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 300,
+		"merchand_id": 14,
+		"client_id": 2844,
+		"value": 77.90,
+		"datetime": "2022-03-18 02:53:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 301,
+		"merchand_id": 14,
+		"client_id": 1819,
+		"value": 163.77,
+		"datetime": "2021-12-21 23:44:22",
+		"status": "Aprovada"
+	},
+	{
+		"id": 302,
+		"merchand_id": 18,
+		"client_id": 8660,
+		"value": 70.46,
+		"datetime": "2022-05-03 03:13:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 303,
+		"merchand_id": 19,
+		"client_id": 3376,
+		"value": 109.65,
+		"datetime": "2021-05-31 04:06:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 304,
+		"merchand_id": 25,
+		"client_id": 7027,
+		"value": 131.43,
+		"datetime": "2022-05-03 20:07:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 305,
+		"merchand_id": 35,
+		"client_id": 1605,
+		"value": 106.04,
+		"datetime": "2020-09-01 06:09:50",
+		"status": "Pendente"
+	},
+	{
+		"id": 306,
+		"merchand_id": 4,
+		"client_id": 1958,
+		"value": 53.79,
+		"datetime": "2021-08-19 20:22:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 307,
+		"merchand_id": 19,
+		"client_id": 6963,
+		"value": 96.72,
+		"datetime": "2021-08-09 17:52:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 308,
+		"merchand_id": 32,
+		"client_id": 6241,
+		"value": 53.61,
+		"datetime": "2021-11-21 14:32:08",
+		"status": "Aprovada"
+	},
+	{
+		"id": 309,
+		"merchand_id": 33,
+		"client_id": 1090,
+		"value": 109.62,
+		"datetime": "2021-12-25 20:56:26",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 310,
+		"merchand_id": 1,
+		"client_id": 5091,
+		"value": 134.62,
+		"datetime": "2021-09-01 22:30:40",
+		"status": "Pendente"
+	},
+	{
+		"id": 311,
+		"merchand_id": 13,
+		"client_id": 2944,
+		"value": 65.98,
+		"datetime": "2021-01-20 12:29:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 312,
+		"merchand_id": 32,
+		"client_id": 1872,
+		"value": 113.29,
+		"datetime": "2022-01-26 11:59:25",
+		"status": "Aprovada"
+	},
+	{
+		"id": 313,
+		"merchand_id": 45,
+		"client_id": 4130,
+		"value": 67.96,
+		"datetime": "2021-08-30 13:46:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 314,
+		"merchand_id": 11,
+		"client_id": 5280,
+		"value": 126.34,
+		"datetime": "2020-12-14 15:19:29",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 315,
+		"merchand_id": 7,
+		"client_id": 8384,
+		"value": 88.60,
+		"datetime": "2022-01-06 19:47:50",
+		"status": "Aprovada"
+	},
+	{
+		"id": 316,
+		"merchand_id": 31,
+		"client_id": 3919,
+		"value": 116.94,
+		"datetime": "2020-09-09 19:55:17",
+		"status": "Aprovada"
+	},
+	{
+		"id": 317,
+		"merchand_id": 7,
+		"client_id": 838,
+		"value": 128.14,
+		"datetime": "2021-01-26 09:08:56",
+		"status": "Pendente"
+	},
+	{
+		"id": 318,
+		"merchand_id": 28,
+		"client_id": 6552,
+		"value": 89.88,
+		"datetime": "2020-09-21 05:23:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 319,
+		"merchand_id": 10,
+		"client_id": 9295,
+		"value": 112.03,
+		"datetime": "2022-07-28 11:19:50",
+		"status": "Pendente"
+	},
+	{
+		"id": 320,
+		"merchand_id": 19,
+		"client_id": 8388,
+		"value": 97.04,
+		"datetime": "2022-06-28 23:16:42",
+		"status": "Aprovada"
+	},
+	{
+		"id": 321,
+		"merchand_id": 33,
+		"client_id": 9377,
+		"value": 125.43,
+		"datetime": "2021-01-19 11:33:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 322,
+		"merchand_id": 40,
+		"client_id": 2452,
+		"value": 76.40,
+		"datetime": "2020-11-17 06:14:49",
+		"status": "Pendente"
+	},
+	{
+		"id": 323,
+		"merchand_id": 45,
+		"client_id": 1499,
+		"value": 109.21,
+		"datetime": "2022-01-01 17:40:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 324,
+		"merchand_id": 31,
+		"client_id": 6514,
+		"value": 87.51,
+		"datetime": "2021-09-10 10:10:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 325,
+		"merchand_id": 29,
+		"client_id": 8407,
+		"value": 96.27,
+		"datetime": "2021-07-06 17:49:10",
+		"status": "Pendente"
+	},
+	{
+		"id": 326,
+		"merchand_id": 28,
+		"client_id": 6793,
+		"value": 80.47,
+		"datetime": "2022-04-22 08:56:29",
+		"status": "Pendente"
+	},
+	{
+		"id": 327,
+		"merchand_id": 21,
+		"client_id": 8083,
+		"value": 115.42,
+		"datetime": "2022-02-12 08:50:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 328,
+		"merchand_id": 21,
+		"client_id": 2441,
+		"value": 120.84,
+		"datetime": "2020-12-21 19:06:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 329,
+		"merchand_id": 42,
+		"client_id": 3639,
+		"value": 53.38,
+		"datetime": "2022-04-04 10:29:31",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 330,
+		"merchand_id": 21,
+		"client_id": 23,
+		"value": 75.17,
+		"datetime": "2020-10-13 19:40:31",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 331,
+		"merchand_id": 10,
+		"client_id": 6932,
+		"value": 119.05,
+		"datetime": "2022-05-19 03:19:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 332,
+		"merchand_id": 22,
+		"client_id": 6109,
+		"value": 150.36,
+		"datetime": "2022-02-04 13:47:04",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 333,
+		"merchand_id": 24,
+		"client_id": 7653,
+		"value": 127.40,
+		"datetime": "2021-11-28 04:05:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 334,
+		"merchand_id": 8,
+		"client_id": 8746,
+		"value": 123.20,
+		"datetime": "2020-12-30 23:08:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 335,
+		"merchand_id": 34,
+		"client_id": 1204,
+		"value": 79.14,
+		"datetime": "2022-03-30 14:20:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 336,
+		"merchand_id": 34,
+		"client_id": 6670,
+		"value": 78.89,
+		"datetime": "2021-09-18 00:46:53",
+		"status": "Aprovada"
+	},
+	{
+		"id": 337,
+		"merchand_id": 43,
+		"client_id": 7695,
+		"value": 90.45,
+		"datetime": "2021-04-21 00:42:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 338,
+		"merchand_id": 3,
+		"client_id": 9830,
+		"value": 63.28,
+		"datetime": "2021-04-25 01:58:09",
+		"status": "Aprovada"
+	},
+	{
+		"id": 339,
+		"merchand_id": 32,
+		"client_id": 3230,
+		"value": 79.15,
+		"datetime": "2021-04-01 16:37:18",
+		"status": "Pendente"
+	},
+	{
+		"id": 340,
+		"merchand_id": 44,
+		"client_id": 7166,
+		"value": 130.97,
+		"datetime": "2021-06-10 16:54:58",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 341,
+		"merchand_id": 27,
+		"client_id": 64,
+		"value": 87.36,
+		"datetime": "2021-09-08 02:37:22",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 342,
+		"merchand_id": 19,
+		"client_id": 5665,
+		"value": 108.65,
+		"datetime": "2021-05-06 17:52:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 343,
+		"merchand_id": 44,
+		"client_id": 3097,
+		"value": 166.43,
+		"datetime": "2022-03-31 06:43:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 344,
+		"merchand_id": 26,
+		"client_id": 6781,
+		"value": 148.15,
+		"datetime": "2022-07-09 18:50:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 345,
+		"merchand_id": 8,
+		"client_id": 9078,
+		"value": 89.64,
+		"datetime": "2021-07-05 20:36:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 346,
+		"merchand_id": 36,
+		"client_id": 2200,
+		"value": 108.80,
+		"datetime": "2021-04-19 06:14:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 347,
+		"merchand_id": 39,
+		"client_id": 5739,
+		"value": 115.73,
+		"datetime": "2022-06-06 23:35:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 348,
+		"merchand_id": 33,
+		"client_id": 5412,
+		"value": 114.79,
+		"datetime": "2020-08-29 18:14:38",
+		"status": "Pendente"
+	},
+	{
+		"id": 349,
+		"merchand_id": 34,
+		"client_id": 6695,
+		"value": 73.15,
+		"datetime": "2021-05-19 01:53:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 350,
+		"merchand_id": 3,
+		"client_id": 5121,
+		"value": 84.42,
+		"datetime": "2021-12-11 13:24:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 351,
+		"merchand_id": 31,
+		"client_id": 9488,
+		"value": 86.05,
+		"datetime": "2021-05-10 16:37:01",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 352,
+		"merchand_id": 27,
+		"client_id": 447,
+		"value": 129.94,
+		"datetime": "2020-12-01 19:21:28",
+		"status": "Aprovada"
+	},
+	{
+		"id": 353,
+		"merchand_id": 11,
+		"client_id": 9035,
+		"value": 99.92,
+		"datetime": "2020-08-29 08:31:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 354,
+		"merchand_id": 21,
+		"client_id": 4348,
+		"value": 72.18,
+		"datetime": "2021-08-08 02:35:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 355,
+		"merchand_id": 49,
+		"client_id": 8539,
+		"value": 90.38,
+		"datetime": "2020-09-12 15:39:18",
+		"status": "Pendente"
+	},
+	{
+		"id": 356,
+		"merchand_id": 42,
+		"client_id": 2433,
+		"value": 109.47,
+		"datetime": "2020-08-29 01:14:04",
+		"status": "Pendente"
+	},
+	{
+		"id": 357,
+		"merchand_id": 46,
+		"client_id": 870,
+		"value": 102.05,
+		"datetime": "2022-07-14 14:35:09",
+		"status": "Pendente"
+	},
+	{
+		"id": 358,
+		"merchand_id": 16,
+		"client_id": 7680,
+		"value": 125.42,
+		"datetime": "2021-12-24 21:31:00",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 359,
+		"merchand_id": 50,
+		"client_id": 5251,
+		"value": 164.17,
+		"datetime": "2021-06-23 11:19:42",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 360,
+		"merchand_id": 26,
+		"client_id": 7584,
+		"value": 103.70,
+		"datetime": "2020-10-31 05:36:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 361,
+		"merchand_id": 16,
+		"client_id": 4533,
+		"value": 69.15,
+		"datetime": "2022-03-10 19:31:11",
+		"status": "Pendente"
+	},
+	{
+		"id": 362,
+		"merchand_id": 24,
+		"client_id": 8722,
+		"value": 71.69,
+		"datetime": "2021-01-10 01:47:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 363,
+		"merchand_id": 40,
+		"client_id": 8606,
+		"value": 109.55,
+		"datetime": "2020-10-30 19:03:46",
+		"status": "Aprovada"
+	},
+	{
+		"id": 364,
+		"merchand_id": 23,
+		"client_id": 6760,
+		"value": 100.56,
+		"datetime": "2021-10-17 17:35:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 365,
+		"merchand_id": 19,
+		"client_id": 8996,
+		"value": 39.74,
+		"datetime": "2021-09-02 17:25:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 366,
+		"merchand_id": 12,
+		"client_id": 6464,
+		"value": 137.07,
+		"datetime": "2022-03-29 10:48:49",
+		"status": "Aprovada"
+	},
+	{
+		"id": 367,
+		"merchand_id": 7,
+		"client_id": 9797,
+		"value": 127.39,
+		"datetime": "2020-09-18 23:18:14",
+		"status": "Pendente"
+	},
+	{
+		"id": 368,
+		"merchand_id": 25,
+		"client_id": 5285,
+		"value": 166.17,
+		"datetime": "2020-09-26 09:28:29",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 369,
+		"merchand_id": 39,
+		"client_id": 23,
+		"value": 96.73,
+		"datetime": "2021-12-28 13:30:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 370,
+		"merchand_id": 31,
+		"client_id": 5623,
+		"value": 119.36,
+		"datetime": "2021-12-07 17:19:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 371,
+		"merchand_id": 39,
+		"client_id": 6721,
+		"value": 144.29,
+		"datetime": "2022-07-05 14:31:09",
+		"status": "Pendente"
+	},
+	{
+		"id": 372,
+		"merchand_id": 23,
+		"client_id": 5597,
+		"value": 50.00,
+		"datetime": "2021-10-04 02:35:57",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 373,
+		"merchand_id": 40,
+		"client_id": 6659,
+		"value": 161.71,
+		"datetime": "2022-04-19 06:23:53",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 374,
+		"merchand_id": 2,
+		"client_id": 1058,
+		"value": 107.23,
+		"datetime": "2021-03-24 01:41:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 375,
+		"merchand_id": 49,
+		"client_id": 2304,
+		"value": 109.75,
+		"datetime": "2021-02-13 23:55:08",
+		"status": "Pendente"
+	},
+	{
+		"id": 376,
+		"merchand_id": 16,
+		"client_id": 7786,
+		"value": 74.93,
+		"datetime": "2021-03-07 05:47:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 377,
+		"merchand_id": 3,
+		"client_id": 3323,
+		"value": 112.82,
+		"datetime": "2022-02-02 09:45:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 378,
+		"merchand_id": 38,
+		"client_id": 7182,
+		"value": 97.69,
+		"datetime": "2020-09-16 04:36:39",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 379,
+		"merchand_id": 28,
+		"client_id": 8249,
+		"value": 66.11,
+		"datetime": "2022-06-23 10:00:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 380,
+		"merchand_id": 35,
+		"client_id": 4928,
+		"value": 78.89,
+		"datetime": "2020-10-20 21:21:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 381,
+		"merchand_id": 25,
+		"client_id": 8974,
+		"value": 95.88,
+		"datetime": "2022-05-04 00:47:38",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 382,
+		"merchand_id": 6,
+		"client_id": 2802,
+		"value": 90.21,
+		"datetime": "2020-09-05 10:59:29",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 383,
+		"merchand_id": 30,
+		"client_id": 6851,
+		"value": 109.96,
+		"datetime": "2021-08-07 07:13:52",
+		"status": "Aprovada"
+	},
+	{
+		"id": 384,
+		"merchand_id": 9,
+		"client_id": 1946,
+		"value": 156.85,
+		"datetime": "2021-05-14 02:05:38",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 385,
+		"merchand_id": 4,
+		"client_id": 6062,
+		"value": 119.16,
+		"datetime": "2022-02-23 00:54:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 386,
+		"merchand_id": 47,
+		"client_id": 403,
+		"value": 101.14,
+		"datetime": "2021-09-04 00:10:20",
+		"status": "Pendente"
+	},
+	{
+		"id": 387,
+		"merchand_id": 7,
+		"client_id": 6382,
+		"value": 79.73,
+		"datetime": "2022-02-09 04:42:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 388,
+		"merchand_id": 9,
+		"client_id": 4895,
+		"value": 125.77,
+		"datetime": "2021-07-02 22:35:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 389,
+		"merchand_id": 13,
+		"client_id": 6848,
+		"value": 84.89,
+		"datetime": "2022-01-14 00:06:30",
+		"status": "Pendente"
+	},
+	{
+		"id": 390,
+		"merchand_id": 30,
+		"client_id": 5439,
+		"value": 117.87,
+		"datetime": "2020-10-17 07:11:45",
+		"status": "Pendente"
+	},
+	{
+		"id": 391,
+		"merchand_id": 26,
+		"client_id": 4750,
+		"value": 98.75,
+		"datetime": "2021-04-06 14:58:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 392,
+		"merchand_id": 24,
+		"client_id": 8327,
+		"value": 60.78,
+		"datetime": "2021-03-09 02:04:24",
+		"status": "Aprovada"
+	},
+	{
+		"id": 393,
+		"merchand_id": 47,
+		"client_id": 7225,
+		"value": 101.00,
+		"datetime": "2021-08-19 03:59:10",
+		"status": "Pendente"
+	},
+	{
+		"id": 394,
+		"merchand_id": 38,
+		"client_id": 670,
+		"value": 114.69,
+		"datetime": "2022-02-02 06:53:57",
+		"status": "Pendente"
+	},
+	{
+		"id": 395,
+		"merchand_id": 5,
+		"client_id": 8035,
+		"value": 88.06,
+		"datetime": "2022-05-05 14:06:18",
+		"status": "Pendente"
+	},
+	{
+		"id": 396,
+		"merchand_id": 10,
+		"client_id": 1412,
+		"value": 117.34,
+		"datetime": "2021-09-15 06:38:00",
+		"status": "Pendente"
+	},
+	{
+		"id": 397,
+		"merchand_id": 18,
+		"client_id": 6615,
+		"value": 128.55,
+		"datetime": "2022-05-27 03:28:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 398,
+		"merchand_id": 31,
+		"client_id": 1406,
+		"value": 46.99,
+		"datetime": "2022-06-25 23:56:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 399,
+		"merchand_id": 45,
+		"client_id": 3158,
+		"value": 69.10,
+		"datetime": "2020-08-02 09:54:01",
+		"status": "Pendente"
+	},
+	{
+		"id": 400,
+		"merchand_id": 8,
+		"client_id": 3909,
+		"value": 124.40,
+		"datetime": "2022-05-02 06:11:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 401,
+		"merchand_id": 39,
+		"client_id": 143,
+		"value": 126.71,
+		"datetime": "2021-09-06 02:22:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 402,
+		"merchand_id": 12,
+		"client_id": 3865,
+		"value": 84.71,
+		"datetime": "2021-01-21 01:32:11",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 403,
+		"merchand_id": 46,
+		"client_id": 9866,
+		"value": 98.78,
+		"datetime": "2022-01-20 03:43:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 404,
+		"merchand_id": 19,
+		"client_id": 7886,
+		"value": 111.28,
+		"datetime": "2022-04-23 08:08:21",
+		"status": "Pendente"
+	},
+	{
+		"id": 405,
+		"merchand_id": 27,
+		"client_id": 324,
+		"value": 83.32,
+		"datetime": "2021-02-02 18:47:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 406,
+		"merchand_id": 21,
+		"client_id": 651,
+		"value": 137.73,
+		"datetime": "2020-09-12 06:24:55",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 407,
+		"merchand_id": 25,
+		"client_id": 8651,
+		"value": 90.91,
+		"datetime": "2022-03-22 22:38:17",
+		"status": "Aprovada"
+	},
+	{
+		"id": 408,
+		"merchand_id": 19,
+		"client_id": 5756,
+		"value": 88.54,
+		"datetime": "2021-07-01 22:53:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 409,
+		"merchand_id": 45,
+		"client_id": 1132,
+		"value": 62.18,
+		"datetime": "2022-01-08 18:10:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 410,
+		"merchand_id": 2,
+		"client_id": 2203,
+		"value": 114.58,
+		"datetime": "2022-04-16 21:28:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 411,
+		"merchand_id": 48,
+		"client_id": 393,
+		"value": 95.49,
+		"datetime": "2021-09-19 05:42:01",
+		"status": "Aprovada"
+	},
+	{
+		"id": 412,
+		"merchand_id": 15,
+		"client_id": 3507,
+		"value": 105.40,
+		"datetime": "2020-10-31 02:07:45",
+		"status": "Aprovada"
+	},
+	{
+		"id": 413,
+		"merchand_id": 31,
+		"client_id": 2492,
+		"value": 64.63,
+		"datetime": "2020-11-15 20:02:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 414,
+		"merchand_id": 23,
+		"client_id": 8526,
+		"value": 124.59,
+		"datetime": "2022-07-12 00:46:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 415,
+		"merchand_id": 5,
+		"client_id": 2738,
+		"value": 127.58,
+		"datetime": "2020-11-08 20:12:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 416,
+		"merchand_id": 8,
+		"client_id": 9272,
+		"value": 94.78,
+		"datetime": "2020-10-30 00:26:58",
+		"status": "Aprovada"
+	},
+	{
+		"id": 417,
+		"merchand_id": 12,
+		"client_id": 6651,
+		"value": 92.33,
+		"datetime": "2022-03-27 06:54:04",
+		"status": "Aprovada"
+	},
+	{
+		"id": 418,
+		"merchand_id": 35,
+		"client_id": 2115,
+		"value": 144.02,
+		"datetime": "2022-02-14 12:36:48",
+		"status": "Pendente"
+	},
+	{
+		"id": 419,
+		"merchand_id": 49,
+		"client_id": 6595,
+		"value": 83.87,
+		"datetime": "2020-08-14 13:30:41",
+		"status": "Aprovada"
+	},
+	{
+		"id": 420,
+		"merchand_id": 22,
+		"client_id": 5569,
+		"value": 99.46,
+		"datetime": "2022-07-19 04:51:49",
+		"status": "Pendente"
+	},
+	{
+		"id": 421,
+		"merchand_id": 25,
+		"client_id": 3505,
+		"value": 116.59,
+		"datetime": "2020-10-02 10:47:16",
+		"status": "Pendente"
+	},
+	{
+		"id": 422,
+		"merchand_id": 32,
+		"client_id": 1450,
+		"value": 124.06,
+		"datetime": "2021-05-05 03:42:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 423,
+		"merchand_id": 42,
+		"client_id": 5651,
+		"value": 81.26,
+		"datetime": "2021-04-01 23:18:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 424,
+		"merchand_id": 40,
+		"client_id": 4661,
+		"value": 118.75,
+		"datetime": "2021-01-12 03:59:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 425,
+		"merchand_id": 29,
+		"client_id": 190,
+		"value": 86.03,
+		"datetime": "2022-02-21 09:26:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 426,
+		"merchand_id": 42,
+		"client_id": 1309,
+		"value": 39.77,
+		"datetime": "2021-10-05 05:36:05",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 427,
+		"merchand_id": 20,
+		"client_id": 320,
+		"value": 132.34,
+		"datetime": "2021-10-29 17:03:44",
+		"status": "Aprovada"
+	},
+	{
+		"id": 428,
+		"merchand_id": 47,
+		"client_id": 9919,
+		"value": 87.07,
+		"datetime": "2020-09-13 19:34:02",
+		"status": "Pendente"
+	},
+	{
+		"id": 429,
+		"merchand_id": 18,
+		"client_id": 9098,
+		"value": 96.27,
+		"datetime": "2021-12-09 17:43:01",
+		"status": "Pendente"
+	},
+	{
+		"id": 430,
+		"merchand_id": 45,
+		"client_id": 7922,
+		"value": 62.89,
+		"datetime": "2021-03-10 09:14:18",
+		"status": "Aprovada"
+	},
+	{
+		"id": 431,
+		"merchand_id": 23,
+		"client_id": 2836,
+		"value": 98.48,
+		"datetime": "2021-01-31 20:05:11",
+		"status": "Pendente"
+	},
+	{
+		"id": 432,
+		"merchand_id": 38,
+		"client_id": 6662,
+		"value": 118.40,
+		"datetime": "2020-11-25 13:35:04",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 433,
+		"merchand_id": 50,
+		"client_id": 4580,
+		"value": 96.52,
+		"datetime": "2020-10-31 08:41:30",
+		"status": "Aprovada"
+	},
+	{
+		"id": 434,
+		"merchand_id": 3,
+		"client_id": 1395,
+		"value": 96.49,
+		"datetime": "2021-09-13 15:13:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 435,
+		"merchand_id": 9,
+		"client_id": 2418,
+		"value": 66.12,
+		"datetime": "2021-12-12 03:09:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 436,
+		"merchand_id": 16,
+		"client_id": 1202,
+		"value": 101.54,
+		"datetime": "2020-11-14 18:54:03",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 437,
+		"merchand_id": 14,
+		"client_id": 3964,
+		"value": 61.26,
+		"datetime": "2022-06-15 03:36:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 438,
+		"merchand_id": 43,
+		"client_id": 6251,
+		"value": 114.33,
+		"datetime": "2021-07-20 12:08:41",
+		"status": "Aprovada"
+	},
+	{
+		"id": 439,
+		"merchand_id": 31,
+		"client_id": 9905,
+		"value": 133.16,
+		"datetime": "2022-01-07 05:19:16",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 440,
+		"merchand_id": 41,
+		"client_id": 2990,
+		"value": 81.59,
+		"datetime": "2021-11-11 22:29:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 441,
+		"merchand_id": 9,
+		"client_id": 3520,
+		"value": 81.45,
+		"datetime": "2022-04-26 05:49:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 442,
+		"merchand_id": 42,
+		"client_id": 8500,
+		"value": 132.51,
+		"datetime": "2021-02-18 23:48:23",
+		"status": "Aprovada"
+	},
+	{
+		"id": 443,
+		"merchand_id": 6,
+		"client_id": 3941,
+		"value": 97.86,
+		"datetime": "2022-05-24 20:34:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 444,
+		"merchand_id": 43,
+		"client_id": 6668,
+		"value": 107.43,
+		"datetime": "2021-04-03 18:14:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 445,
+		"merchand_id": 4,
+		"client_id": 9266,
+		"value": 117.26,
+		"datetime": "2021-07-14 14:33:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 446,
+		"merchand_id": 44,
+		"client_id": 3422,
+		"value": 123.76,
+		"datetime": "2022-04-09 10:44:22",
+		"status": "Aprovada"
+	},
+	{
+		"id": 447,
+		"merchand_id": 21,
+		"client_id": 1167,
+		"value": 86.90,
+		"datetime": "2021-10-06 17:24:02",
+		"status": "Pendente"
+	},
+	{
+		"id": 448,
+		"merchand_id": 2,
+		"client_id": 9981,
+		"value": 119.26,
+		"datetime": "2020-09-06 05:44:13",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 449,
+		"merchand_id": 1,
+		"client_id": 7876,
+		"value": 107.20,
+		"datetime": "2021-12-21 09:47:28",
+		"status": "Aprovada"
+	},
+	{
+		"id": 450,
+		"merchand_id": 38,
+		"client_id": 6108,
+		"value": 127.51,
+		"datetime": "2022-05-06 20:20:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 451,
+		"merchand_id": 49,
+		"client_id": 1294,
+		"value": 113.90,
+		"datetime": "2021-07-15 18:17:27",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 452,
+		"merchand_id": 32,
+		"client_id": 7159,
+		"value": 60.30,
+		"datetime": "2021-07-06 17:33:42",
+		"status": "Aprovada"
+	},
+	{
+		"id": 453,
+		"merchand_id": 41,
+		"client_id": 9795,
+		"value": 68.67,
+		"datetime": "2020-09-22 21:24:48",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 454,
+		"merchand_id": 47,
+		"client_id": 5555,
+		"value": 85.99,
+		"datetime": "2021-10-30 23:22:10",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 455,
+		"merchand_id": 34,
+		"client_id": 6184,
+		"value": 95.02,
+		"datetime": "2022-04-02 04:01:38",
+		"status": "Aprovada"
+	},
+	{
+		"id": 456,
+		"merchand_id": 31,
+		"client_id": 3102,
+		"value": 71.52,
+		"datetime": "2020-08-09 06:11:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 457,
+		"merchand_id": 7,
+		"client_id": 3441,
+		"value": 77.67,
+		"datetime": "2020-09-17 22:19:56",
+		"status": "Pendente"
+	},
+	{
+		"id": 458,
+		"merchand_id": 18,
+		"client_id": 1320,
+		"value": 102.42,
+		"datetime": "2021-01-22 09:23:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 459,
+		"merchand_id": 34,
+		"client_id": 2253,
+		"value": 97.53,
+		"datetime": "2021-07-15 17:00:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 460,
+		"merchand_id": 47,
+		"client_id": 3247,
+		"value": 93.53,
+		"datetime": "2021-11-15 21:58:05",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 461,
+		"merchand_id": 39,
+		"client_id": 2181,
+		"value": 68.82,
+		"datetime": "2021-03-18 11:15:04",
+		"status": "Aprovada"
+	},
+	{
+		"id": 462,
+		"merchand_id": 45,
+		"client_id": 2319,
+		"value": 93.52,
+		"datetime": "2020-09-23 00:48:40",
+		"status": "Aprovada"
+	},
+	{
+		"id": 463,
+		"merchand_id": 46,
+		"client_id": 3795,
+		"value": 110.45,
+		"datetime": "2020-09-22 14:03:59",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 464,
+		"merchand_id": 10,
+		"client_id": 3734,
+		"value": 154.16,
+		"datetime": "2020-08-25 13:54:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 465,
+		"merchand_id": 45,
+		"client_id": 2816,
+		"value": 86.33,
+		"datetime": "2021-05-11 22:41:15",
+		"status": "Aprovada"
+	},
+	{
+		"id": 466,
+		"merchand_id": 40,
+		"client_id": 6398,
+		"value": 109.54,
+		"datetime": "2021-05-13 12:18:12",
+		"status": "Pendente"
+	},
+	{
+		"id": 467,
+		"merchand_id": 17,
+		"client_id": 1971,
+		"value": 117.26,
+		"datetime": "2020-08-08 11:57:30",
+		"status": "Pendente"
+	},
+	{
+		"id": 468,
+		"merchand_id": 49,
+		"client_id": 2975,
+		"value": 115.14,
+		"datetime": "2022-02-10 10:59:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 469,
+		"merchand_id": 29,
+		"client_id": 1700,
+		"value": 78.21,
+		"datetime": "2021-08-25 12:26:13",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 470,
+		"merchand_id": 26,
+		"client_id": 8524,
+		"value": 115.15,
+		"datetime": "2022-05-30 02:20:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 471,
+		"merchand_id": 43,
+		"client_id": 2162,
+		"value": 70.55,
+		"datetime": "2021-07-12 12:27:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 472,
+		"merchand_id": 15,
+		"client_id": 7371,
+		"value": 75.54,
+		"datetime": "2022-06-13 02:02:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 473,
+		"merchand_id": 30,
+		"client_id": 3405,
+		"value": 104.98,
+		"datetime": "2021-06-07 15:41:57",
+		"status": "Aprovada"
+	},
+	{
+		"id": 474,
+		"merchand_id": 2,
+		"client_id": 6864,
+		"value": 98.98,
+		"datetime": "2022-05-21 19:37:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 475,
+		"merchand_id": 21,
+		"client_id": 4931,
+		"value": 88.83,
+		"datetime": "2022-03-26 12:05:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 476,
+		"merchand_id": 23,
+		"client_id": 9658,
+		"value": 128.15,
+		"datetime": "2022-03-14 02:28:48",
+		"status": "Aprovada"
+	},
+	{
+		"id": 477,
+		"merchand_id": 37,
+		"client_id": 5877,
+		"value": 47.40,
+		"datetime": "2022-02-02 07:05:57",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 478,
+		"merchand_id": 20,
+		"client_id": 464,
+		"value": 99.03,
+		"datetime": "2022-03-28 12:32:22",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 479,
+		"merchand_id": 23,
+		"client_id": 9609,
+		"value": 50.95,
+		"datetime": "2021-12-31 18:40:10",
+		"status": "Pendente"
+	},
+	{
+		"id": 480,
+		"merchand_id": 36,
+		"client_id": 44,
+		"value": 100.94,
+		"datetime": "2021-11-06 09:12:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 481,
+		"merchand_id": 3,
+		"client_id": 7318,
+		"value": 114.29,
+		"datetime": "2021-09-20 15:38:18",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 482,
+		"merchand_id": 39,
+		"client_id": 4995,
+		"value": 91.10,
+		"datetime": "2021-01-11 19:48:25",
+		"status": "Pendente"
+	},
+	{
+		"id": 483,
+		"merchand_id": 4,
+		"client_id": 9344,
+		"value": 94.68,
+		"datetime": "2022-05-15 10:54:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 484,
+		"merchand_id": 44,
+		"client_id": 4602,
+		"value": 56.22,
+		"datetime": "2021-08-09 22:26:42",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 485,
+		"merchand_id": 7,
+		"client_id": 7526,
+		"value": 97.22,
+		"datetime": "2021-04-25 01:08:21",
+		"status": "Pendente"
+	},
+	{
+		"id": 486,
+		"merchand_id": 36,
+		"client_id": 7266,
+		"value": 122.68,
+		"datetime": "2020-11-08 19:41:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 487,
+		"merchand_id": 16,
+		"client_id": 7248,
+		"value": 94.45,
+		"datetime": "2020-09-14 14:58:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 488,
+		"merchand_id": 41,
+		"client_id": 8370,
+		"value": 105.41,
+		"datetime": "2022-05-08 21:12:40",
+		"status": "Pendente"
+	},
+	{
+		"id": 489,
+		"merchand_id": 41,
+		"client_id": 2246,
+		"value": 133.99,
+		"datetime": "2021-04-01 05:09:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 490,
+		"merchand_id": 34,
+		"client_id": 3300,
+		"value": 78.62,
+		"datetime": "2021-08-15 15:30:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 491,
+		"merchand_id": 7,
+		"client_id": 2984,
+		"value": 71.03,
+		"datetime": "2022-04-25 08:01:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 492,
+		"merchand_id": 12,
+		"client_id": 2192,
+		"value": 92.36,
+		"datetime": "2020-11-16 21:11:08",
+		"status": "Aprovada"
+	},
+	{
+		"id": 493,
+		"merchand_id": 34,
+		"client_id": 122,
+		"value": 142.84,
+		"datetime": "2022-04-02 11:35:59",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 494,
+		"merchand_id": 21,
+		"client_id": 1681,
+		"value": 86.33,
+		"datetime": "2022-03-13 22:13:04",
+		"status": "Aprovada"
+	},
+	{
+		"id": 495,
+		"merchand_id": 48,
+		"client_id": 6458,
+		"value": 76.45,
+		"datetime": "2021-12-01 05:25:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 496,
+		"merchand_id": 23,
+		"client_id": 5584,
+		"value": 114.59,
+		"datetime": "2020-12-23 20:59:20",
+		"status": "Pendente"
+	},
+	{
+		"id": 497,
+		"merchand_id": 1,
+		"client_id": 9090,
+		"value": 102.46,
+		"datetime": "2020-10-10 20:17:53",
+		"status": "Pendente"
+	},
+	{
+		"id": 498,
+		"merchand_id": 47,
+		"client_id": 5366,
+		"value": 27.61,
+		"datetime": "2020-11-22 16:34:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 499,
+		"merchand_id": 3,
+		"client_id": 6021,
+		"value": 89.70,
+		"datetime": "2022-04-20 17:38:34",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 500,
+		"merchand_id": 8,
+		"client_id": 210,
+		"value": 121.84,
+		"datetime": "2020-08-24 06:38:20",
+		"status": "Aprovada"
+	},
+	{
+		"id": 501,
+		"merchand_id": 24,
+		"client_id": 8665,
+		"value": 103.98,
+		"datetime": "2021-07-26 17:08:50",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 502,
+		"merchand_id": 30,
+		"client_id": 3032,
+		"value": 101.57,
+		"datetime": "2021-07-26 02:25:49",
+		"status": "Pendente"
+	},
+	{
+		"id": 503,
+		"merchand_id": 15,
+		"client_id": 8950,
+		"value": 125.86,
+		"datetime": "2020-11-13 00:49:08",
+		"status": "Pendente"
+	},
+	{
+		"id": 504,
+		"merchand_id": 28,
+		"client_id": 6915,
+		"value": 93.49,
+		"datetime": "2021-04-04 00:52:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 505,
+		"merchand_id": 47,
+		"client_id": 9872,
+		"value": 109.46,
+		"datetime": "2021-09-19 17:19:00",
+		"status": "Pendente"
+	},
+	{
+		"id": 506,
+		"merchand_id": 18,
+		"client_id": 9928,
+		"value": 57.50,
+		"datetime": "2020-12-03 22:59:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 507,
+		"merchand_id": 48,
+		"client_id": 1774,
+		"value": 94.01,
+		"datetime": "2021-01-16 16:20:26",
+		"status": "Pendente"
+	},
+	{
+		"id": 508,
+		"merchand_id": 41,
+		"client_id": 6122,
+		"value": 99.75,
+		"datetime": "2022-03-21 09:09:41",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 509,
+		"merchand_id": 8,
+		"client_id": 6484,
+		"value": 104.35,
+		"datetime": "2022-06-22 06:30:38",
+		"status": "Aprovada"
+	},
+	{
+		"id": 510,
+		"merchand_id": 17,
+		"client_id": 8920,
+		"value": 118.64,
+		"datetime": "2021-06-28 13:51:04",
+		"status": "Pendente"
+	},
+	{
+		"id": 511,
+		"merchand_id": 12,
+		"client_id": 4264,
+		"value": 116.51,
+		"datetime": "2020-10-13 11:46:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 512,
+		"merchand_id": 38,
+		"client_id": 9883,
+		"value": 91.35,
+		"datetime": "2022-01-17 09:38:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 513,
+		"merchand_id": 45,
+		"client_id": 3543,
+		"value": 109.18,
+		"datetime": "2022-02-11 08:29:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 514,
+		"merchand_id": 30,
+		"client_id": 7077,
+		"value": 117.37,
+		"datetime": "2020-08-16 00:13:03",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 515,
+		"merchand_id": 35,
+		"client_id": 2363,
+		"value": 76.44,
+		"datetime": "2021-08-02 16:09:13",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 516,
+		"merchand_id": 43,
+		"client_id": 3126,
+		"value": 157.03,
+		"datetime": "2022-01-23 13:03:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 517,
+		"merchand_id": 24,
+		"client_id": 5077,
+		"value": 124.41,
+		"datetime": "2020-09-01 17:54:26",
+		"status": "Pendente"
+	},
+	{
+		"id": 518,
+		"merchand_id": 29,
+		"client_id": 8401,
+		"value": 80.32,
+		"datetime": "2021-10-10 16:38:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 519,
+		"merchand_id": 49,
+		"client_id": 2000,
+		"value": 114.46,
+		"datetime": "2021-09-02 16:31:41",
+		"status": "Aprovada"
+	},
+	{
+		"id": 520,
+		"merchand_id": 25,
+		"client_id": 7140,
+		"value": 57.46,
+		"datetime": "2021-04-21 10:08:58",
+		"status": "Aprovada"
+	},
+	{
+		"id": 521,
+		"merchand_id": 18,
+		"client_id": 538,
+		"value": 97.93,
+		"datetime": "2022-04-15 17:47:45",
+		"status": "Aprovada"
+	},
+	{
+		"id": 522,
+		"merchand_id": 32,
+		"client_id": 1552,
+		"value": 148.18,
+		"datetime": "2021-06-19 03:29:22",
+		"status": "Aprovada"
+	},
+	{
+		"id": 523,
+		"merchand_id": 23,
+		"client_id": 389,
+		"value": 107.31,
+		"datetime": "2022-07-20 22:12:01",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 524,
+		"merchand_id": 8,
+		"client_id": 5049,
+		"value": 106.03,
+		"datetime": "2022-04-13 19:27:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 525,
+		"merchand_id": 13,
+		"client_id": 9383,
+		"value": 141.29,
+		"datetime": "2021-12-17 09:06:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 526,
+		"merchand_id": 2,
+		"client_id": 2894,
+		"value": 87.01,
+		"datetime": "2022-05-17 22:28:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 527,
+		"merchand_id": 43,
+		"client_id": 79,
+		"value": 69.46,
+		"datetime": "2022-04-21 13:13:50",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 528,
+		"merchand_id": 17,
+		"client_id": 3158,
+		"value": 104.55,
+		"datetime": "2021-09-24 21:18:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 529,
+		"merchand_id": 25,
+		"client_id": 8651,
+		"value": 79.53,
+		"datetime": "2020-12-17 17:01:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 530,
+		"merchand_id": 3,
+		"client_id": 1101,
+		"value": 48.25,
+		"datetime": "2021-03-21 00:43:34",
+		"status": "Pendente"
+	},
+	{
+		"id": 531,
+		"merchand_id": 15,
+		"client_id": 5030,
+		"value": 89.20,
+		"datetime": "2021-01-25 20:14:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 532,
+		"merchand_id": 18,
+		"client_id": 3398,
+		"value": 74.90,
+		"datetime": "2021-03-26 12:22:12",
+		"status": "Aprovada"
+	},
+	{
+		"id": 533,
+		"merchand_id": 11,
+		"client_id": 7832,
+		"value": 106.30,
+		"datetime": "2022-01-13 23:05:57",
+		"status": "Pendente"
+	},
+	{
+		"id": 534,
+		"merchand_id": 9,
+		"client_id": 8038,
+		"value": 107.68,
+		"datetime": "2020-08-29 18:30:12",
+		"status": "Aprovada"
+	},
+	{
+		"id": 535,
+		"merchand_id": 18,
+		"client_id": 2783,
+		"value": 134.74,
+		"datetime": "2021-06-01 08:53:13",
+		"status": "Pendente"
+	},
+	{
+		"id": 536,
+		"merchand_id": 19,
+		"client_id": 6012,
+		"value": 111.97,
+		"datetime": "2021-06-02 00:17:18",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 537,
+		"merchand_id": 3,
+		"client_id": 9228,
+		"value": 109.58,
+		"datetime": "2022-07-27 10:55:12",
+		"status": "Pendente"
+	},
+	{
+		"id": 538,
+		"merchand_id": 13,
+		"client_id": 8386,
+		"value": 111.35,
+		"datetime": "2020-10-25 19:41:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 539,
+		"merchand_id": 6,
+		"client_id": 8263,
+		"value": 74.33,
+		"datetime": "2021-07-14 14:47:38",
+		"status": "Aprovada"
+	},
+	{
+		"id": 540,
+		"merchand_id": 27,
+		"client_id": 1315,
+		"value": 132.26,
+		"datetime": "2021-07-02 05:47:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 541,
+		"merchand_id": 48,
+		"client_id": 2248,
+		"value": 72.90,
+		"datetime": "2020-09-23 01:27:25",
+		"status": "Aprovada"
+	},
+	{
+		"id": 542,
+		"merchand_id": 20,
+		"client_id": 9420,
+		"value": 81.24,
+		"datetime": "2020-09-21 08:10:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 543,
+		"merchand_id": 30,
+		"client_id": 9137,
+		"value": 116.24,
+		"datetime": "2022-02-10 09:47:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 544,
+		"merchand_id": 12,
+		"client_id": 4479,
+		"value": 125.90,
+		"datetime": "2021-06-12 02:18:53",
+		"status": "Aprovada"
+	},
+	{
+		"id": 545,
+		"merchand_id": 13,
+		"client_id": 4632,
+		"value": 124.27,
+		"datetime": "2020-08-29 18:42:34",
+		"status": "Pendente"
+	},
+	{
+		"id": 546,
+		"merchand_id": 28,
+		"client_id": 4797,
+		"value": 124.70,
+		"datetime": "2021-02-11 13:47:20",
+		"status": "Pendente"
+	},
+	{
+		"id": 547,
+		"merchand_id": 22,
+		"client_id": 9294,
+		"value": 99.67,
+		"datetime": "2021-12-19 06:51:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 548,
+		"merchand_id": 11,
+		"client_id": 2177,
+		"value": 124.97,
+		"datetime": "2022-02-23 22:35:11",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 549,
+		"merchand_id": 19,
+		"client_id": 6781,
+		"value": 99.27,
+		"datetime": "2020-08-03 00:40:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 550,
+		"merchand_id": 15,
+		"client_id": 627,
+		"value": 113.50,
+		"datetime": "2021-10-07 10:57:19",
+		"status": "Aprovada"
+	},
+	{
+		"id": 551,
+		"merchand_id": 46,
+		"client_id": 9700,
+		"value": 64.07,
+		"datetime": "2021-03-25 00:58:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 552,
+		"merchand_id": 49,
+		"client_id": 251,
+		"value": 69.66,
+		"datetime": "2021-02-02 11:13:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 553,
+		"merchand_id": 27,
+		"client_id": 2456,
+		"value": 131.92,
+		"datetime": "2021-11-12 09:43:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 554,
+		"merchand_id": 27,
+		"client_id": 2175,
+		"value": 98.47,
+		"datetime": "2021-03-10 15:35:29",
+		"status": "Aprovada"
+	},
+	{
+		"id": 555,
+		"merchand_id": 4,
+		"client_id": 743,
+		"value": 69.21,
+		"datetime": "2021-11-25 20:51:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 556,
+		"merchand_id": 28,
+		"client_id": 5621,
+		"value": 115.66,
+		"datetime": "2021-01-23 13:59:25",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 557,
+		"merchand_id": 25,
+		"client_id": 4997,
+		"value": 149.39,
+		"datetime": "2021-02-09 02:07:52",
+		"status": "Pendente"
+	},
+	{
+		"id": 558,
+		"merchand_id": 6,
+		"client_id": 9587,
+		"value": 145.04,
+		"datetime": "2020-08-26 07:30:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 559,
+		"merchand_id": 27,
+		"client_id": 7765,
+		"value": 73.73,
+		"datetime": "2021-03-22 14:36:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 560,
+		"merchand_id": 43,
+		"client_id": 6989,
+		"value": 88.19,
+		"datetime": "2020-10-16 02:30:31",
+		"status": "Aprovada"
+	},
+	{
+		"id": 561,
+		"merchand_id": 14,
+		"client_id": 5205,
+		"value": 142.63,
+		"datetime": "2020-10-05 16:47:30",
+		"status": "Aprovada"
+	},
+	{
+		"id": 562,
+		"merchand_id": 38,
+		"client_id": 1272,
+		"value": 96.96,
+		"datetime": "2021-02-27 16:44:56",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 563,
+		"merchand_id": 26,
+		"client_id": 729,
+		"value": 80.63,
+		"datetime": "2021-05-11 05:20:00",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 564,
+		"merchand_id": 41,
+		"client_id": 4008,
+		"value": 112.39,
+		"datetime": "2020-11-14 13:34:46",
+		"status": "Aprovada"
+	},
+	{
+		"id": 565,
+		"merchand_id": 40,
+		"client_id": 8934,
+		"value": 135.18,
+		"datetime": "2020-09-29 09:58:45",
+		"status": "Aprovada"
+	},
+	{
+		"id": 566,
+		"merchand_id": 38,
+		"client_id": 5241,
+		"value": 121.12,
+		"datetime": "2022-07-10 22:20:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 567,
+		"merchand_id": 6,
+		"client_id": 3746,
+		"value": 88.71,
+		"datetime": "2021-12-31 00:24:16",
+		"status": "Pendente"
+	},
+	{
+		"id": 568,
+		"merchand_id": 46,
+		"client_id": 8721,
+		"value": 101.37,
+		"datetime": "2021-03-21 22:00:17",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 569,
+		"merchand_id": 1,
+		"client_id": 8448,
+		"value": 141.15,
+		"datetime": "2020-10-16 14:39:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 570,
+		"merchand_id": 37,
+		"client_id": 1278,
+		"value": 105.65,
+		"datetime": "2021-01-28 23:33:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 571,
+		"merchand_id": 24,
+		"client_id": 2308,
+		"value": 79.55,
+		"datetime": "2021-10-28 11:55:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 572,
+		"merchand_id": 21,
+		"client_id": 8375,
+		"value": 100.95,
+		"datetime": "2021-06-07 19:27:37",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 573,
+		"merchand_id": 44,
+		"client_id": 4841,
+		"value": 112.99,
+		"datetime": "2021-02-27 00:06:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 574,
+		"merchand_id": 4,
+		"client_id": 7996,
+		"value": 78.96,
+		"datetime": "2020-10-08 14:02:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 575,
+		"merchand_id": 32,
+		"client_id": 1167,
+		"value": 116.47,
+		"datetime": "2020-08-18 07:19:40",
+		"status": "Aprovada"
+	},
+	{
+		"id": 576,
+		"merchand_id": 11,
+		"client_id": 3424,
+		"value": 116.40,
+		"datetime": "2020-09-12 08:57:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 577,
+		"merchand_id": 29,
+		"client_id": 7,
+		"value": 92.57,
+		"datetime": "2022-05-21 21:24:34",
+		"status": "Aprovada"
+	},
+	{
+		"id": 578,
+		"merchand_id": 28,
+		"client_id": 4087,
+		"value": 68.14,
+		"datetime": "2021-09-22 04:53:23",
+		"status": "Pendente"
+	},
+	{
+		"id": 579,
+		"merchand_id": 20,
+		"client_id": 5263,
+		"value": 108.50,
+		"datetime": "2022-07-22 20:16:35",
+		"status": "Pendente"
+	},
+	{
+		"id": 580,
+		"merchand_id": 43,
+		"client_id": 6309,
+		"value": 146.60,
+		"datetime": "2021-11-23 05:15:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 581,
+		"merchand_id": 43,
+		"client_id": 6964,
+		"value": 108.45,
+		"datetime": "2022-05-08 08:51:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 582,
+		"merchand_id": 11,
+		"client_id": 4803,
+		"value": 66.52,
+		"datetime": "2020-08-20 13:10:06",
+		"status": "Pendente"
+	},
+	{
+		"id": 583,
+		"merchand_id": 34,
+		"client_id": 8074,
+		"value": 134.37,
+		"datetime": "2021-09-04 13:42:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 584,
+		"merchand_id": 24,
+		"client_id": 8715,
+		"value": 136.00,
+		"datetime": "2020-11-26 18:22:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 585,
+		"merchand_id": 28,
+		"client_id": 5610,
+		"value": 113.42,
+		"datetime": "2021-08-13 02:39:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 586,
+		"merchand_id": 43,
+		"client_id": 2503,
+		"value": 159.73,
+		"datetime": "2021-07-23 03:36:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 587,
+		"merchand_id": 9,
+		"client_id": 4761,
+		"value": 99.72,
+		"datetime": "2022-01-28 20:34:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 588,
+		"merchand_id": 1,
+		"client_id": 8694,
+		"value": 86.79,
+		"datetime": "2021-04-13 14:24:08",
+		"status": "Aprovada"
+	},
+	{
+		"id": 589,
+		"merchand_id": 26,
+		"client_id": 7254,
+		"value": 91.04,
+		"datetime": "2021-03-02 03:51:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 590,
+		"merchand_id": 13,
+		"client_id": 504,
+		"value": 81.52,
+		"datetime": "2021-03-07 07:00:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 591,
+		"merchand_id": 26,
+		"client_id": 4149,
+		"value": 167.34,
+		"datetime": "2021-04-02 12:57:20",
+		"status": "Aprovada"
+	},
+	{
+		"id": 592,
+		"merchand_id": 33,
+		"client_id": 7967,
+		"value": 83.16,
+		"datetime": "2021-04-14 14:20:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 593,
+		"merchand_id": 11,
+		"client_id": 8386,
+		"value": 50.31,
+		"datetime": "2020-11-17 07:16:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 594,
+		"merchand_id": 46,
+		"client_id": 4968,
+		"value": 84.08,
+		"datetime": "2020-11-11 11:40:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 595,
+		"merchand_id": 8,
+		"client_id": 5406,
+		"value": 140.93,
+		"datetime": "2022-02-08 13:37:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 596,
+		"merchand_id": 41,
+		"client_id": 6332,
+		"value": 66.86,
+		"datetime": "2020-11-08 07:00:55",
+		"status": "Pendente"
+	},
+	{
+		"id": 597,
+		"merchand_id": 13,
+		"client_id": 7674,
+		"value": 135.27,
+		"datetime": "2021-04-27 01:50:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 598,
+		"merchand_id": 29,
+		"client_id": 149,
+		"value": 121.52,
+		"datetime": "2022-01-01 19:18:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 599,
+		"merchand_id": 28,
+		"client_id": 2870,
+		"value": 71.56,
+		"datetime": "2022-02-05 05:07:44",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 600,
+		"merchand_id": 11,
+		"client_id": 2613,
+		"value": 125.73,
+		"datetime": "2021-02-05 16:34:12",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 601,
+		"merchand_id": 41,
+		"client_id": 4971,
+		"value": 68.49,
+		"datetime": "2021-12-07 05:56:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 602,
+		"merchand_id": 12,
+		"client_id": 7479,
+		"value": 118.56,
+		"datetime": "2021-07-20 11:28:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 603,
+		"merchand_id": 47,
+		"client_id": 9675,
+		"value": 66.23,
+		"datetime": "2021-11-23 06:03:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 604,
+		"merchand_id": 36,
+		"client_id": 2121,
+		"value": 104.94,
+		"datetime": "2021-12-15 10:01:35",
+		"status": "Aprovada"
+	},
+	{
+		"id": 605,
+		"merchand_id": 15,
+		"client_id": 9894,
+		"value": 121.52,
+		"datetime": "2021-10-07 09:53:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 606,
+		"merchand_id": 36,
+		"client_id": 4708,
+		"value": 70.12,
+		"datetime": "2020-10-08 07:33:45",
+		"status": "Pendente"
+	},
+	{
+		"id": 607,
+		"merchand_id": 8,
+		"client_id": 6194,
+		"value": 90.96,
+		"datetime": "2021-07-17 00:43:59",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 608,
+		"merchand_id": 43,
+		"client_id": 1944,
+		"value": 74.91,
+		"datetime": "2022-07-08 00:31:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 609,
+		"merchand_id": 21,
+		"client_id": 1263,
+		"value": 112.87,
+		"datetime": "2021-05-12 22:00:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 610,
+		"merchand_id": 49,
+		"client_id": 9562,
+		"value": 76.67,
+		"datetime": "2021-09-01 14:06:06",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 611,
+		"merchand_id": 31,
+		"client_id": 8817,
+		"value": 90.02,
+		"datetime": "2021-10-08 17:30:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 612,
+		"merchand_id": 44,
+		"client_id": 5762,
+		"value": 89.15,
+		"datetime": "2021-04-13 21:27:39",
+		"status": "Aprovada"
+	},
+	{
+		"id": 613,
+		"merchand_id": 23,
+		"client_id": 2531,
+		"value": 95.37,
+		"datetime": "2021-10-10 15:47:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 614,
+		"merchand_id": 3,
+		"client_id": 3412,
+		"value": 55.81,
+		"datetime": "2021-08-12 00:42:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 615,
+		"merchand_id": 2,
+		"client_id": 7170,
+		"value": 73.74,
+		"datetime": "2022-07-12 06:29:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 616,
+		"merchand_id": 31,
+		"client_id": 3573,
+		"value": 80.73,
+		"datetime": "2020-10-05 14:51:05",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 617,
+		"merchand_id": 9,
+		"client_id": 4168,
+		"value": 62.86,
+		"datetime": "2021-02-26 11:05:40",
+		"status": "Pendente"
+	},
+	{
+		"id": 618,
+		"merchand_id": 3,
+		"client_id": 997,
+		"value": 98.71,
+		"datetime": "2020-10-31 07:06:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 619,
+		"merchand_id": 22,
+		"client_id": 6755,
+		"value": 71.93,
+		"datetime": "2021-11-13 16:58:02",
+		"status": "Aprovada"
+	},
+	{
+		"id": 620,
+		"merchand_id": 1,
+		"client_id": 7914,
+		"value": 78.33,
+		"datetime": "2021-03-30 19:16:20",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 621,
+		"merchand_id": 50,
+		"client_id": 743,
+		"value": 109.88,
+		"datetime": "2020-10-11 06:27:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 622,
+		"merchand_id": 27,
+		"client_id": 7051,
+		"value": 91.72,
+		"datetime": "2020-10-15 08:56:23",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 623,
+		"merchand_id": 47,
+		"client_id": 6588,
+		"value": 80.40,
+		"datetime": "2021-02-07 07:27:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 624,
+		"merchand_id": 18,
+		"client_id": 4549,
+		"value": 142.73,
+		"datetime": "2021-03-10 19:07:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 625,
+		"merchand_id": 41,
+		"client_id": 2249,
+		"value": 120.91,
+		"datetime": "2021-08-16 10:40:08",
+		"status": "Aprovada"
+	},
+	{
+		"id": 626,
+		"merchand_id": 34,
+		"client_id": 9818,
+		"value": 68.70,
+		"datetime": "2021-03-21 13:48:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 627,
+		"merchand_id": 18,
+		"client_id": 4496,
+		"value": 94.84,
+		"datetime": "2022-05-09 01:54:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 628,
+		"merchand_id": 12,
+		"client_id": 6452,
+		"value": 139.56,
+		"datetime": "2022-03-19 16:52:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 629,
+		"merchand_id": 28,
+		"client_id": 4962,
+		"value": 87.82,
+		"datetime": "2020-08-25 16:49:48",
+		"status": "Aprovada"
+	},
+	{
+		"id": 630,
+		"merchand_id": 34,
+		"client_id": 5902,
+		"value": 115.20,
+		"datetime": "2021-08-07 09:34:17",
+		"status": "Aprovada"
+	},
+	{
+		"id": 631,
+		"merchand_id": 16,
+		"client_id": 7639,
+		"value": 88.89,
+		"datetime": "2022-07-18 05:03:17",
+		"status": "Pendente"
+	},
+	{
+		"id": 632,
+		"merchand_id": 16,
+		"client_id": 1300,
+		"value": 86.87,
+		"datetime": "2020-08-11 04:34:37",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 633,
+		"merchand_id": 49,
+		"client_id": 5415,
+		"value": 107.70,
+		"datetime": "2022-01-02 11:26:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 634,
+		"merchand_id": 15,
+		"client_id": 3967,
+		"value": 72.01,
+		"datetime": "2021-08-23 23:39:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 635,
+		"merchand_id": 3,
+		"client_id": 7337,
+		"value": 100.55,
+		"datetime": "2022-02-28 21:46:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 636,
+		"merchand_id": 46,
+		"client_id": 4326,
+		"value": 72.85,
+		"datetime": "2021-06-08 11:04:59",
+		"status": "Pendente"
+	},
+	{
+		"id": 637,
+		"merchand_id": 6,
+		"client_id": 5154,
+		"value": 94.28,
+		"datetime": "2021-05-24 05:07:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 638,
+		"merchand_id": 18,
+		"client_id": 2906,
+		"value": 134.17,
+		"datetime": "2022-07-04 00:04:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 639,
+		"merchand_id": 35,
+		"client_id": 4845,
+		"value": 82.16,
+		"datetime": "2021-02-08 10:07:28",
+		"status": "Pendente"
+	},
+	{
+		"id": 640,
+		"merchand_id": 19,
+		"client_id": 5495,
+		"value": 90.19,
+		"datetime": "2021-07-21 07:00:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 641,
+		"merchand_id": 24,
+		"client_id": 7420,
+		"value": 110.95,
+		"datetime": "2021-09-02 02:33:17",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 642,
+		"merchand_id": 36,
+		"client_id": 3509,
+		"value": 70.89,
+		"datetime": "2020-12-23 01:46:01",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 643,
+		"merchand_id": 22,
+		"client_id": 8877,
+		"value": 65.23,
+		"datetime": "2021-11-30 22:42:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 644,
+		"merchand_id": 2,
+		"client_id": 8957,
+		"value": 83.39,
+		"datetime": "2021-10-27 14:24:18",
+		"status": "Pendente"
+	},
+	{
+		"id": 645,
+		"merchand_id": 30,
+		"client_id": 1364,
+		"value": 45.56,
+		"datetime": "2021-04-28 15:22:03",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 646,
+		"merchand_id": 37,
+		"client_id": 3409,
+		"value": 102.97,
+		"datetime": "2022-01-09 02:47:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 647,
+		"merchand_id": 37,
+		"client_id": 8954,
+		"value": 84.64,
+		"datetime": "2022-06-27 14:52:21",
+		"status": "Pendente"
+	},
+	{
+		"id": 648,
+		"merchand_id": 14,
+		"client_id": 9036,
+		"value": 61.38,
+		"datetime": "2022-01-03 06:43:50",
+		"status": "Pendente"
+	},
+	{
+		"id": 649,
+		"merchand_id": 48,
+		"client_id": 3790,
+		"value": 101.82,
+		"datetime": "2022-07-08 16:06:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 650,
+		"merchand_id": 1,
+		"client_id": 2638,
+		"value": 120.50,
+		"datetime": "2020-08-18 12:36:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 651,
+		"merchand_id": 42,
+		"client_id": 9462,
+		"value": 120.40,
+		"datetime": "2020-12-23 09:51:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 652,
+		"merchand_id": 46,
+		"client_id": 2341,
+		"value": 80.36,
+		"datetime": "2022-02-04 04:50:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 653,
+		"merchand_id": 5,
+		"client_id": 2044,
+		"value": 103.74,
+		"datetime": "2021-11-22 16:57:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 654,
+		"merchand_id": 45,
+		"client_id": 2895,
+		"value": 164.28,
+		"datetime": "2022-05-27 01:53:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 655,
+		"merchand_id": 6,
+		"client_id": 9021,
+		"value": 122.50,
+		"datetime": "2020-08-09 15:48:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 656,
+		"merchand_id": 12,
+		"client_id": 7541,
+		"value": 85.40,
+		"datetime": "2020-08-25 20:52:10",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 657,
+		"merchand_id": 30,
+		"client_id": 9213,
+		"value": 102.81,
+		"datetime": "2021-08-25 21:57:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 658,
+		"merchand_id": 46,
+		"client_id": 2854,
+		"value": 54.44,
+		"datetime": "2021-05-31 03:42:59",
+		"status": "Pendente"
+	},
+	{
+		"id": 659,
+		"merchand_id": 27,
+		"client_id": 913,
+		"value": 72.01,
+		"datetime": "2020-09-01 23:50:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 660,
+		"merchand_id": 13,
+		"client_id": 6869,
+		"value": 55.26,
+		"datetime": "2020-12-06 07:23:19",
+		"status": "Aprovada"
+	},
+	{
+		"id": 661,
+		"merchand_id": 6,
+		"client_id": 6490,
+		"value": 117.80,
+		"datetime": "2022-01-21 17:35:29",
+		"status": "Pendente"
+	},
+	{
+		"id": 662,
+		"merchand_id": 15,
+		"client_id": 2517,
+		"value": 108.41,
+		"datetime": "2021-02-23 13:14:44",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 663,
+		"merchand_id": 6,
+		"client_id": 2348,
+		"value": 58.73,
+		"datetime": "2022-01-19 12:03:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 664,
+		"merchand_id": 5,
+		"client_id": 7172,
+		"value": 39.37,
+		"datetime": "2020-11-04 01:29:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 665,
+		"merchand_id": 44,
+		"client_id": 2868,
+		"value": 110.01,
+		"datetime": "2021-12-03 00:51:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 666,
+		"merchand_id": 40,
+		"client_id": 6434,
+		"value": 96.42,
+		"datetime": "2021-08-25 16:29:55",
+		"status": "Pendente"
+	},
+	{
+		"id": 667,
+		"merchand_id": 37,
+		"client_id": 7882,
+		"value": 122.87,
+		"datetime": "2021-12-16 06:14:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 668,
+		"merchand_id": 49,
+		"client_id": 9169,
+		"value": 92.40,
+		"datetime": "2021-08-15 07:31:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 669,
+		"merchand_id": 17,
+		"client_id": 1544,
+		"value": 103.09,
+		"datetime": "2021-02-25 19:08:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 670,
+		"merchand_id": 36,
+		"client_id": 3705,
+		"value": 91.15,
+		"datetime": "2022-07-30 13:45:49",
+		"status": "Aprovada"
+	},
+	{
+		"id": 671,
+		"merchand_id": 15,
+		"client_id": 5812,
+		"value": 108.53,
+		"datetime": "2021-04-03 08:40:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 672,
+		"merchand_id": 26,
+		"client_id": 4069,
+		"value": 88.44,
+		"datetime": "2022-07-12 17:11:16",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 673,
+		"merchand_id": 11,
+		"client_id": 6614,
+		"value": 83.26,
+		"datetime": "2022-01-15 00:00:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 674,
+		"merchand_id": 27,
+		"client_id": 4101,
+		"value": 108.19,
+		"datetime": "2021-04-14 22:12:42",
+		"status": "Aprovada"
+	},
+	{
+		"id": 675,
+		"merchand_id": 26,
+		"client_id": 7125,
+		"value": 81.99,
+		"datetime": "2020-08-02 02:41:17",
+		"status": "Aprovada"
+	},
+	{
+		"id": 676,
+		"merchand_id": 14,
+		"client_id": 8117,
+		"value": 85.17,
+		"datetime": "2022-07-07 18:10:37",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 677,
+		"merchand_id": 1,
+		"client_id": 3982,
+		"value": 79.09,
+		"datetime": "2021-01-16 20:26:35",
+		"status": "Aprovada"
+	},
+	{
+		"id": 678,
+		"merchand_id": 10,
+		"client_id": 5605,
+		"value": 60.20,
+		"datetime": "2021-09-28 23:33:13",
+		"status": "Aprovada"
+	},
+	{
+		"id": 679,
+		"merchand_id": 2,
+		"client_id": 6376,
+		"value": 104.10,
+		"datetime": "2022-07-23 11:35:58",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 680,
+		"merchand_id": 38,
+		"client_id": 8072,
+		"value": 103.19,
+		"datetime": "2021-10-22 19:33:28",
+		"status": "Pendente"
+	},
+	{
+		"id": 681,
+		"merchand_id": 47,
+		"client_id": 4133,
+		"value": 67.90,
+		"datetime": "2021-02-20 02:38:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 682,
+		"merchand_id": 6,
+		"client_id": 6243,
+		"value": 99.63,
+		"datetime": "2021-08-19 21:37:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 683,
+		"merchand_id": 17,
+		"client_id": 215,
+		"value": 123.55,
+		"datetime": "2022-02-27 11:17:58",
+		"status": "Aprovada"
+	},
+	{
+		"id": 684,
+		"merchand_id": 42,
+		"client_id": 1807,
+		"value": 77.12,
+		"datetime": "2021-03-31 18:23:41",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 685,
+		"merchand_id": 22,
+		"client_id": 769,
+		"value": 62.03,
+		"datetime": "2021-05-24 07:04:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 686,
+		"merchand_id": 18,
+		"client_id": 6335,
+		"value": 90.55,
+		"datetime": "2021-09-21 06:32:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 687,
+		"merchand_id": 38,
+		"client_id": 7950,
+		"value": 105.73,
+		"datetime": "2021-01-23 01:52:20",
+		"status": "Aprovada"
+	},
+	{
+		"id": 688,
+		"merchand_id": 3,
+		"client_id": 1519,
+		"value": 110.47,
+		"datetime": "2021-09-08 19:17:47",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 689,
+		"merchand_id": 48,
+		"client_id": 5176,
+		"value": 88.07,
+		"datetime": "2022-06-11 06:45:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 690,
+		"merchand_id": 29,
+		"client_id": 6549,
+		"value": 91.30,
+		"datetime": "2021-11-07 14:33:12",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 691,
+		"merchand_id": 17,
+		"client_id": 3034,
+		"value": 31.62,
+		"datetime": "2020-11-16 23:36:52",
+		"status": "Pendente"
+	},
+	{
+		"id": 692,
+		"merchand_id": 38,
+		"client_id": 11,
+		"value": 85.73,
+		"datetime": "2020-12-05 15:50:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 693,
+		"merchand_id": 19,
+		"client_id": 3252,
+		"value": 104.88,
+		"datetime": "2021-03-12 15:24:08",
+		"status": "Pendente"
+	},
+	{
+		"id": 694,
+		"merchand_id": 32,
+		"client_id": 3562,
+		"value": 71.71,
+		"datetime": "2021-10-04 04:43:09",
+		"status": "Pendente"
+	},
+	{
+		"id": 695,
+		"merchand_id": 34,
+		"client_id": 5379,
+		"value": 117.69,
+		"datetime": "2021-02-28 02:54:00",
+		"status": "Pendente"
+	},
+	{
+		"id": 696,
+		"merchand_id": 46,
+		"client_id": 9762,
+		"value": 121.42,
+		"datetime": "2021-12-25 16:56:41",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 697,
+		"merchand_id": 31,
+		"client_id": 1268,
+		"value": 67.13,
+		"datetime": "2021-09-15 21:16:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 698,
+		"merchand_id": 47,
+		"client_id": 2308,
+		"value": 81.70,
+		"datetime": "2020-09-05 01:20:42",
+		"status": "Aprovada"
+	},
+	{
+		"id": 699,
+		"merchand_id": 26,
+		"client_id": 9440,
+		"value": 93.82,
+		"datetime": "2021-08-18 16:49:10",
+		"status": "Pendente"
+	},
+	{
+		"id": 700,
+		"merchand_id": 3,
+		"client_id": 4145,
+		"value": 89.49,
+		"datetime": "2020-11-04 15:16:54",
+		"status": "Aprovada"
+	},
+	{
+		"id": 701,
+		"merchand_id": 30,
+		"client_id": 4857,
+		"value": 81.32,
+		"datetime": "2021-12-29 23:10:12",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 702,
+		"merchand_id": 42,
+		"client_id": 1640,
+		"value": 103.60,
+		"datetime": "2021-10-25 05:35:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 703,
+		"merchand_id": 22,
+		"client_id": 7470,
+		"value": 129.91,
+		"datetime": "2021-08-07 05:49:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 704,
+		"merchand_id": 15,
+		"client_id": 8329,
+		"value": 99.58,
+		"datetime": "2021-08-30 11:22:26",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 705,
+		"merchand_id": 41,
+		"client_id": 4733,
+		"value": 76.70,
+		"datetime": "2021-08-18 21:43:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 706,
+		"merchand_id": 2,
+		"client_id": 5634,
+		"value": 101.60,
+		"datetime": "2021-01-02 12:43:17",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 707,
+		"merchand_id": 14,
+		"client_id": 4917,
+		"value": 52.60,
+		"datetime": "2020-11-14 14:38:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 708,
+		"merchand_id": 8,
+		"client_id": 5401,
+		"value": 102.39,
+		"datetime": "2021-08-18 00:08:22",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 709,
+		"merchand_id": 34,
+		"client_id": 4569,
+		"value": 101.51,
+		"datetime": "2021-11-26 23:26:45",
+		"status": "Aprovada"
+	},
+	{
+		"id": 710,
+		"merchand_id": 8,
+		"client_id": 602,
+		"value": 126.68,
+		"datetime": "2021-09-28 18:22:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 711,
+		"merchand_id": 41,
+		"client_id": 2049,
+		"value": 114.29,
+		"datetime": "2022-03-10 00:35:38",
+		"status": "Pendente"
+	},
+	{
+		"id": 712,
+		"merchand_id": 14,
+		"client_id": 8409,
+		"value": 85.09,
+		"datetime": "2021-12-15 22:20:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 713,
+		"merchand_id": 17,
+		"client_id": 9017,
+		"value": 117.13,
+		"datetime": "2022-05-08 00:09:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 714,
+		"merchand_id": 2,
+		"client_id": 1920,
+		"value": 101.94,
+		"datetime": "2021-04-14 04:19:54",
+		"status": "Pendente"
+	},
+	{
+		"id": 715,
+		"merchand_id": 36,
+		"client_id": 6450,
+		"value": 122.93,
+		"datetime": "2022-03-27 02:55:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 716,
+		"merchand_id": 43,
+		"client_id": 560,
+		"value": 123.47,
+		"datetime": "2020-11-28 13:16:52",
+		"status": "Aprovada"
+	},
+	{
+		"id": 717,
+		"merchand_id": 14,
+		"client_id": 1910,
+		"value": 107.28,
+		"datetime": "2020-11-02 11:08:29",
+		"status": "Aprovada"
+	},
+	{
+		"id": 718,
+		"merchand_id": 35,
+		"client_id": 7748,
+		"value": 112.12,
+		"datetime": "2021-10-16 04:21:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 719,
+		"merchand_id": 34,
+		"client_id": 2232,
+		"value": 109.24,
+		"datetime": "2020-11-17 10:11:06",
+		"status": "Pendente"
+	},
+	{
+		"id": 720,
+		"merchand_id": 42,
+		"client_id": 9928,
+		"value": 107.24,
+		"datetime": "2022-05-31 17:09:33",
+		"status": "Pendente"
+	},
+	{
+		"id": 721,
+		"merchand_id": 23,
+		"client_id": 3790,
+		"value": 73.09,
+		"datetime": "2022-02-07 19:55:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 722,
+		"merchand_id": 12,
+		"client_id": 5932,
+		"value": 103.72,
+		"datetime": "2021-05-17 14:01:45",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 723,
+		"merchand_id": 28,
+		"client_id": 3339,
+		"value": 112.01,
+		"datetime": "2020-10-20 12:25:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 724,
+		"merchand_id": 9,
+		"client_id": 5709,
+		"value": 138.33,
+		"datetime": "2021-04-24 17:33:58",
+		"status": "Aprovada"
+	},
+	{
+		"id": 725,
+		"merchand_id": 12,
+		"client_id": 9378,
+		"value": 74.03,
+		"datetime": "2021-08-23 11:01:30",
+		"status": "Pendente"
+	},
+	{
+		"id": 726,
+		"merchand_id": 22,
+		"client_id": 7658,
+		"value": 76.80,
+		"datetime": "2022-03-27 11:23:22",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 727,
+		"merchand_id": 42,
+		"client_id": 859,
+		"value": 106.50,
+		"datetime": "2022-05-20 23:21:06",
+		"status": "Pendente"
+	},
+	{
+		"id": 728,
+		"merchand_id": 48,
+		"client_id": 6826,
+		"value": 122.27,
+		"datetime": "2021-05-13 02:30:24",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 729,
+		"merchand_id": 34,
+		"client_id": 8707,
+		"value": 123.15,
+		"datetime": "2021-11-07 08:42:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 730,
+		"merchand_id": 42,
+		"client_id": 2530,
+		"value": 110.24,
+		"datetime": "2022-04-07 15:02:28",
+		"status": "Aprovada"
+	},
+	{
+		"id": 731,
+		"merchand_id": 45,
+		"client_id": 3805,
+		"value": 104.45,
+		"datetime": "2022-03-30 13:19:01",
+		"status": "Pendente"
+	},
+	{
+		"id": 732,
+		"merchand_id": 20,
+		"client_id": 2652,
+		"value": 142.84,
+		"datetime": "2021-04-11 09:43:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 733,
+		"merchand_id": 14,
+		"client_id": 6167,
+		"value": 121.90,
+		"datetime": "2021-08-28 21:21:25",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 734,
+		"merchand_id": 11,
+		"client_id": 2505,
+		"value": 90.21,
+		"datetime": "2020-12-25 07:26:42",
+		"status": "Aprovada"
+	},
+	{
+		"id": 735,
+		"merchand_id": 40,
+		"client_id": 2148,
+		"value": 96.03,
+		"datetime": "2022-03-12 10:59:50",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 736,
+		"merchand_id": 8,
+		"client_id": 1330,
+		"value": 88.61,
+		"datetime": "2021-12-23 23:13:40",
+		"status": "Aprovada"
+	},
+	{
+		"id": 737,
+		"merchand_id": 7,
+		"client_id": 6767,
+		"value": 81.05,
+		"datetime": "2021-08-11 07:58:26",
+		"status": "Pendente"
+	},
+	{
+		"id": 738,
+		"merchand_id": 14,
+		"client_id": 7710,
+		"value": 107.11,
+		"datetime": "2021-04-07 15:29:34",
+		"status": "Pendente"
+	},
+	{
+		"id": 739,
+		"merchand_id": 29,
+		"client_id": 2427,
+		"value": 93.89,
+		"datetime": "2021-10-15 00:31:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 740,
+		"merchand_id": 22,
+		"client_id": 841,
+		"value": 133.33,
+		"datetime": "2022-02-09 20:45:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 741,
+		"merchand_id": 8,
+		"client_id": 5577,
+		"value": 100.33,
+		"datetime": "2021-05-25 04:07:46",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 742,
+		"merchand_id": 19,
+		"client_id": 5512,
+		"value": 95.62,
+		"datetime": "2022-05-19 05:30:02",
+		"status": "Aprovada"
+	},
+	{
+		"id": 743,
+		"merchand_id": 2,
+		"client_id": 5581,
+		"value": 82.00,
+		"datetime": "2021-05-06 00:26:30",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 744,
+		"merchand_id": 10,
+		"client_id": 4824,
+		"value": 29.77,
+		"datetime": "2021-08-30 07:22:01",
+		"status": "Aprovada"
+	},
+	{
+		"id": 745,
+		"merchand_id": 2,
+		"client_id": 2195,
+		"value": 80.33,
+		"datetime": "2020-11-08 10:14:02",
+		"status": "Aprovada"
+	},
+	{
+		"id": 746,
+		"merchand_id": 28,
+		"client_id": 102,
+		"value": 127.86,
+		"datetime": "2022-02-25 15:04:38",
+		"status": "Pendente"
+	},
+	{
+		"id": 747,
+		"merchand_id": 33,
+		"client_id": 3499,
+		"value": 110.95,
+		"datetime": "2022-01-01 11:12:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 748,
+		"merchand_id": 48,
+		"client_id": 1112,
+		"value": 154.81,
+		"datetime": "2021-10-28 22:27:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 749,
+		"merchand_id": 9,
+		"client_id": 3753,
+		"value": 100.09,
+		"datetime": "2020-12-17 02:50:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 750,
+		"merchand_id": 3,
+		"client_id": 7051,
+		"value": 98.66,
+		"datetime": "2022-06-19 18:51:28",
+		"status": "Aprovada"
+	},
+	{
+		"id": 751,
+		"merchand_id": 4,
+		"client_id": 5258,
+		"value": 128.57,
+		"datetime": "2020-10-22 20:17:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 752,
+		"merchand_id": 44,
+		"client_id": 727,
+		"value": 115.43,
+		"datetime": "2021-02-14 03:11:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 753,
+		"merchand_id": 9,
+		"client_id": 2589,
+		"value": 127.67,
+		"datetime": "2021-07-09 08:17:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 754,
+		"merchand_id": 4,
+		"client_id": 7518,
+		"value": 78.38,
+		"datetime": "2022-02-08 05:26:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 755,
+		"merchand_id": 5,
+		"client_id": 1799,
+		"value": 95.04,
+		"datetime": "2022-02-02 09:11:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 756,
+		"merchand_id": 41,
+		"client_id": 1068,
+		"value": 121.71,
+		"datetime": "2021-05-24 03:20:42",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 757,
+		"merchand_id": 12,
+		"client_id": 3425,
+		"value": 152.54,
+		"datetime": "2020-08-24 02:53:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 758,
+		"merchand_id": 8,
+		"client_id": 7041,
+		"value": 128.35,
+		"datetime": "2021-08-17 22:01:42",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 759,
+		"merchand_id": 5,
+		"client_id": 7283,
+		"value": 124.81,
+		"datetime": "2021-06-09 15:07:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 760,
+		"merchand_id": 3,
+		"client_id": 747,
+		"value": 72.25,
+		"datetime": "2021-05-09 09:17:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 761,
+		"merchand_id": 11,
+		"client_id": 9372,
+		"value": 92.16,
+		"datetime": "2022-07-23 17:23:10",
+		"status": "Aprovada"
+	},
+	{
+		"id": 762,
+		"merchand_id": 32,
+		"client_id": 5304,
+		"value": 122.55,
+		"datetime": "2020-09-09 09:46:46",
+		"status": "Pendente"
+	},
+	{
+		"id": 763,
+		"merchand_id": 25,
+		"client_id": 8121,
+		"value": 145.83,
+		"datetime": "2020-12-02 08:34:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 764,
+		"merchand_id": 37,
+		"client_id": 5518,
+		"value": 51.71,
+		"datetime": "2022-01-24 13:05:28",
+		"status": "Pendente"
+	},
+	{
+		"id": 765,
+		"merchand_id": 16,
+		"client_id": 7398,
+		"value": 88.82,
+		"datetime": "2020-08-19 07:58:53",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 766,
+		"merchand_id": 35,
+		"client_id": 5884,
+		"value": 55.51,
+		"datetime": "2021-03-07 04:31:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 767,
+		"merchand_id": 12,
+		"client_id": 1375,
+		"value": 131.66,
+		"datetime": "2021-05-10 06:59:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 768,
+		"merchand_id": 18,
+		"client_id": 7744,
+		"value": 81.90,
+		"datetime": "2021-11-19 16:31:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 769,
+		"merchand_id": 26,
+		"client_id": 3714,
+		"value": 148.20,
+		"datetime": "2021-03-27 11:36:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 770,
+		"merchand_id": 36,
+		"client_id": 8139,
+		"value": 115.34,
+		"datetime": "2021-10-09 06:47:16",
+		"status": "Pendente"
+	},
+	{
+		"id": 771,
+		"merchand_id": 30,
+		"client_id": 5253,
+		"value": 140.46,
+		"datetime": "2021-03-28 17:08:09",
+		"status": "Aprovada"
+	},
+	{
+		"id": 772,
+		"merchand_id": 35,
+		"client_id": 3754,
+		"value": 144.45,
+		"datetime": "2021-09-11 09:08:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 773,
+		"merchand_id": 16,
+		"client_id": 1472,
+		"value": 66.67,
+		"datetime": "2021-12-17 02:21:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 774,
+		"merchand_id": 45,
+		"client_id": 9899,
+		"value": 94.19,
+		"datetime": "2021-04-17 02:20:56",
+		"status": "Pendente"
+	},
+	{
+		"id": 775,
+		"merchand_id": 47,
+		"client_id": 723,
+		"value": 97.82,
+		"datetime": "2021-07-11 09:04:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 776,
+		"merchand_id": 6,
+		"client_id": 5802,
+		"value": 93.03,
+		"datetime": "2020-11-15 14:07:48",
+		"status": "Pendente"
+	},
+	{
+		"id": 777,
+		"merchand_id": 2,
+		"client_id": 1392,
+		"value": 112.11,
+		"datetime": "2021-09-25 05:42:04",
+		"status": "Pendente"
+	},
+	{
+		"id": 778,
+		"merchand_id": 3,
+		"client_id": 4082,
+		"value": 100.42,
+		"datetime": "2022-01-03 16:55:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 779,
+		"merchand_id": 14,
+		"client_id": 3221,
+		"value": 65.23,
+		"datetime": "2020-09-05 19:35:26",
+		"status": "Aprovada"
+	},
+	{
+		"id": 780,
+		"merchand_id": 5,
+		"client_id": 2559,
+		"value": 85.38,
+		"datetime": "2022-02-13 02:31:16",
+		"status": "Pendente"
+	},
+	{
+		"id": 781,
+		"merchand_id": 20,
+		"client_id": 5293,
+		"value": 139.09,
+		"datetime": "2022-03-09 18:28:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 782,
+		"merchand_id": 27,
+		"client_id": 5657,
+		"value": 111.30,
+		"datetime": "2021-12-22 18:15:23",
+		"status": "Aprovada"
+	},
+	{
+		"id": 783,
+		"merchand_id": 20,
+		"client_id": 3735,
+		"value": 111.60,
+		"datetime": "2021-07-15 00:49:49",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 784,
+		"merchand_id": 31,
+		"client_id": 2691,
+		"value": 126.32,
+		"datetime": "2022-02-28 15:47:21",
+		"status": "Aprovada"
+	},
+	{
+		"id": 785,
+		"merchand_id": 31,
+		"client_id": 8255,
+		"value": 100.76,
+		"datetime": "2021-09-19 09:45:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 786,
+		"merchand_id": 26,
+		"client_id": 4312,
+		"value": 101.87,
+		"datetime": "2022-02-28 07:57:15",
+		"status": "Aprovada"
+	},
+	{
+		"id": 787,
+		"merchand_id": 14,
+		"client_id": 2241,
+		"value": 77.22,
+		"datetime": "2022-06-07 22:45:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 788,
+		"merchand_id": 24,
+		"client_id": 307,
+		"value": 121.96,
+		"datetime": "2021-02-09 23:16:59",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 789,
+		"merchand_id": 20,
+		"client_id": 6157,
+		"value": 135.76,
+		"datetime": "2021-03-16 10:41:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 790,
+		"merchand_id": 33,
+		"client_id": 613,
+		"value": 76.87,
+		"datetime": "2021-09-29 10:28:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 791,
+		"merchand_id": 46,
+		"client_id": 4969,
+		"value": 128.34,
+		"datetime": "2021-07-26 17:46:58",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 792,
+		"merchand_id": 28,
+		"client_id": 9544,
+		"value": 107.12,
+		"datetime": "2020-10-23 01:31:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 793,
+		"merchand_id": 29,
+		"client_id": 7520,
+		"value": 96.18,
+		"datetime": "2021-12-13 08:17:11",
+		"status": "Pendente"
+	},
+	{
+		"id": 794,
+		"merchand_id": 18,
+		"client_id": 9206,
+		"value": 67.32,
+		"datetime": "2021-12-27 13:53:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 795,
+		"merchand_id": 10,
+		"client_id": 4771,
+		"value": 96.08,
+		"datetime": "2021-06-13 10:17:46",
+		"status": "Aprovada"
+	},
+	{
+		"id": 796,
+		"merchand_id": 7,
+		"client_id": 4268,
+		"value": 32.53,
+		"datetime": "2021-06-01 13:33:31",
+		"status": "Aprovada"
+	},
+	{
+		"id": 797,
+		"merchand_id": 46,
+		"client_id": 8337,
+		"value": 106.24,
+		"datetime": "2021-12-22 15:02:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 798,
+		"merchand_id": 31,
+		"client_id": 1741,
+		"value": 82.55,
+		"datetime": "2022-04-25 05:08:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 799,
+		"merchand_id": 39,
+		"client_id": 5563,
+		"value": 111.90,
+		"datetime": "2022-03-27 15:05:01",
+		"status": "Pendente"
+	},
+	{
+		"id": 800,
+		"merchand_id": 29,
+		"client_id": 6843,
+		"value": 90.93,
+		"datetime": "2022-04-22 16:57:38",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 801,
+		"merchand_id": 35,
+		"client_id": 6050,
+		"value": 73.16,
+		"datetime": "2021-06-09 13:25:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 802,
+		"merchand_id": 37,
+		"client_id": 3750,
+		"value": 143.67,
+		"datetime": "2022-02-23 00:42:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 803,
+		"merchand_id": 20,
+		"client_id": 6362,
+		"value": 73.43,
+		"datetime": "2022-04-14 10:41:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 804,
+		"merchand_id": 45,
+		"client_id": 2785,
+		"value": 149.52,
+		"datetime": "2022-01-01 00:38:48",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 805,
+		"merchand_id": 18,
+		"client_id": 769,
+		"value": 84.23,
+		"datetime": "2022-04-23 19:16:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 806,
+		"merchand_id": 11,
+		"client_id": 532,
+		"value": 78.41,
+		"datetime": "2022-04-04 07:09:35",
+		"status": "Aprovada"
+	},
+	{
+		"id": 807,
+		"merchand_id": 6,
+		"client_id": 5017,
+		"value": 135.49,
+		"datetime": "2021-11-22 22:04:22",
+		"status": "Aprovada"
+	},
+	{
+		"id": 808,
+		"merchand_id": 22,
+		"client_id": 9236,
+		"value": 76.91,
+		"datetime": "2022-08-01 01:13:25",
+		"status": "Pendente"
+	},
+	{
+		"id": 809,
+		"merchand_id": 7,
+		"client_id": 5037,
+		"value": 96.32,
+		"datetime": "2020-08-09 17:38:29",
+		"status": "Pendente"
+	},
+	{
+		"id": 810,
+		"merchand_id": 2,
+		"client_id": 9626,
+		"value": 97.09,
+		"datetime": "2021-01-03 22:27:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 811,
+		"merchand_id": 8,
+		"client_id": 9433,
+		"value": 137.91,
+		"datetime": "2021-05-04 05:27:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 812,
+		"merchand_id": 26,
+		"client_id": 5541,
+		"value": 163.44,
+		"datetime": "2022-02-05 01:39:08",
+		"status": "Aprovada"
+	},
+	{
+		"id": 813,
+		"merchand_id": 1,
+		"client_id": 3645,
+		"value": 91.60,
+		"datetime": "2022-04-28 14:57:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 814,
+		"merchand_id": 29,
+		"client_id": 7998,
+		"value": 77.16,
+		"datetime": "2021-10-25 04:06:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 815,
+		"merchand_id": 43,
+		"client_id": 5374,
+		"value": 78.12,
+		"datetime": "2020-10-06 07:34:20",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 816,
+		"merchand_id": 31,
+		"client_id": 9995,
+		"value": 111.07,
+		"datetime": "2021-04-30 12:20:57",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 817,
+		"merchand_id": 12,
+		"client_id": 4856,
+		"value": 88.66,
+		"datetime": "2022-06-23 04:50:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 818,
+		"merchand_id": 22,
+		"client_id": 3729,
+		"value": 90.63,
+		"datetime": "2021-09-20 13:12:09",
+		"status": "Aprovada"
+	},
+	{
+		"id": 819,
+		"merchand_id": 17,
+		"client_id": 8552,
+		"value": 115.25,
+		"datetime": "2022-06-12 03:26:17",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 820,
+		"merchand_id": 7,
+		"client_id": 9308,
+		"value": 92.43,
+		"datetime": "2020-08-14 19:14:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 821,
+		"merchand_id": 16,
+		"client_id": 7329,
+		"value": 145.08,
+		"datetime": "2021-11-17 05:55:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 822,
+		"merchand_id": 18,
+		"client_id": 9217,
+		"value": 105.04,
+		"datetime": "2021-10-11 18:47:57",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 823,
+		"merchand_id": 23,
+		"client_id": 5994,
+		"value": 67.94,
+		"datetime": "2022-02-15 00:55:16",
+		"status": "Aprovada"
+	},
+	{
+		"id": 824,
+		"merchand_id": 19,
+		"client_id": 7147,
+		"value": 146.92,
+		"datetime": "2022-03-30 08:14:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 825,
+		"merchand_id": 42,
+		"client_id": 5683,
+		"value": 81.25,
+		"datetime": "2021-10-11 19:24:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 826,
+		"merchand_id": 48,
+		"client_id": 9468,
+		"value": 115.59,
+		"datetime": "2021-04-14 21:35:37",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 827,
+		"merchand_id": 37,
+		"client_id": 3080,
+		"value": 94.60,
+		"datetime": "2021-11-23 10:04:45",
+		"status": "Pendente"
+	},
+	{
+		"id": 828,
+		"merchand_id": 36,
+		"client_id": 4654,
+		"value": 83.71,
+		"datetime": "2020-12-15 06:00:09",
+		"status": "Pendente"
+	},
+	{
+		"id": 829,
+		"merchand_id": 38,
+		"client_id": 3831,
+		"value": 136.06,
+		"datetime": "2021-08-01 21:11:36",
+		"status": "Pendente"
+	},
+	{
+		"id": 830,
+		"merchand_id": 6,
+		"client_id": 2949,
+		"value": 96.37,
+		"datetime": "2021-05-14 04:47:54",
+		"status": "Aprovada"
+	},
+	{
+		"id": 831,
+		"merchand_id": 30,
+		"client_id": 8491,
+		"value": 105.62,
+		"datetime": "2021-11-10 13:43:26",
+		"status": "Pendente"
+	},
+	{
+		"id": 832,
+		"merchand_id": 4,
+		"client_id": 9772,
+		"value": 135.87,
+		"datetime": "2021-09-20 01:26:02",
+		"status": "Pendente"
+	},
+	{
+		"id": 833,
+		"merchand_id": 20,
+		"client_id": 5506,
+		"value": 110.70,
+		"datetime": "2022-04-26 17:56:18",
+		"status": "Aprovada"
+	},
+	{
+		"id": 834,
+		"merchand_id": 13,
+		"client_id": 2039,
+		"value": 98.10,
+		"datetime": "2021-06-07 14:31:02",
+		"status": "Aprovada"
+	},
+	{
+		"id": 835,
+		"merchand_id": 35,
+		"client_id": 4358,
+		"value": 62.02,
+		"datetime": "2022-07-25 06:08:05",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 836,
+		"merchand_id": 7,
+		"client_id": 1770,
+		"value": 76.48,
+		"datetime": "2020-08-27 06:17:09",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 837,
+		"merchand_id": 16,
+		"client_id": 1014,
+		"value": 128.39,
+		"datetime": "2020-11-30 19:31:31",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 838,
+		"merchand_id": 18,
+		"client_id": 9258,
+		"value": 107.43,
+		"datetime": "2021-03-02 22:41:53",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 839,
+		"merchand_id": 13,
+		"client_id": 8140,
+		"value": 73.61,
+		"datetime": "2021-02-27 13:07:53",
+		"status": "Aprovada"
+	},
+	{
+		"id": 840,
+		"merchand_id": 21,
+		"client_id": 5025,
+		"value": 98.91,
+		"datetime": "2021-12-16 21:55:07",
+		"status": "Pendente"
+	},
+	{
+		"id": 841,
+		"merchand_id": 6,
+		"client_id": 2829,
+		"value": 72.99,
+		"datetime": "2021-05-14 18:54:07",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 842,
+		"merchand_id": 48,
+		"client_id": 5363,
+		"value": 52.22,
+		"datetime": "2020-10-26 08:14:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 843,
+		"merchand_id": 21,
+		"client_id": 8553,
+		"value": 129.67,
+		"datetime": "2020-09-09 03:34:42",
+		"status": "Pendente"
+	},
+	{
+		"id": 844,
+		"merchand_id": 24,
+		"client_id": 7476,
+		"value": 115.47,
+		"datetime": "2021-04-20 19:31:31",
+		"status": "Aprovada"
+	},
+	{
+		"id": 845,
+		"merchand_id": 37,
+		"client_id": 3282,
+		"value": 80.56,
+		"datetime": "2021-08-28 16:57:15",
+		"status": "Pendente"
+	},
+	{
+		"id": 846,
+		"merchand_id": 36,
+		"client_id": 9962,
+		"value": 71.43,
+		"datetime": "2022-06-10 09:02:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 847,
+		"merchand_id": 5,
+		"client_id": 2827,
+		"value": 81.49,
+		"datetime": "2021-02-02 10:20:13",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 848,
+		"merchand_id": 49,
+		"client_id": 1406,
+		"value": 91.73,
+		"datetime": "2021-01-28 14:26:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 849,
+		"merchand_id": 5,
+		"client_id": 3785,
+		"value": 118.97,
+		"datetime": "2022-04-04 15:31:05",
+		"status": "Aprovada"
+	},
+	{
+		"id": 850,
+		"merchand_id": 17,
+		"client_id": 951,
+		"value": 89.47,
+		"datetime": "2022-02-14 01:54:06",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 851,
+		"merchand_id": 31,
+		"client_id": 3414,
+		"value": 83.33,
+		"datetime": "2021-04-13 17:16:31",
+		"status": "Pendente"
+	},
+	{
+		"id": 852,
+		"merchand_id": 6,
+		"client_id": 196,
+		"value": 175.61,
+		"datetime": "2021-10-02 16:58:50",
+		"status": "Pendente"
+	},
+	{
+		"id": 853,
+		"merchand_id": 23,
+		"client_id": 8976,
+		"value": 99.92,
+		"datetime": "2020-08-30 04:48:06",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 854,
+		"merchand_id": 5,
+		"client_id": 5771,
+		"value": 71.40,
+		"datetime": "2022-01-31 03:07:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 855,
+		"merchand_id": 40,
+		"client_id": 8493,
+		"value": 104.22,
+		"datetime": "2022-01-28 10:28:11",
+		"status": "Pendente"
+	},
+	{
+		"id": 856,
+		"merchand_id": 3,
+		"client_id": 9185,
+		"value": 33.48,
+		"datetime": "2020-09-20 07:08:01",
+		"status": "Aprovada"
+	},
+	{
+		"id": 857,
+		"merchand_id": 10,
+		"client_id": 483,
+		"value": 58.90,
+		"datetime": "2020-09-13 18:35:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 858,
+		"merchand_id": 8,
+		"client_id": 405,
+		"value": 114.36,
+		"datetime": "2021-08-01 09:50:34",
+		"status": "Aprovada"
+	},
+	{
+		"id": 859,
+		"merchand_id": 31,
+		"client_id": 9487,
+		"value": 129.18,
+		"datetime": "2020-12-02 14:45:33",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 860,
+		"merchand_id": 17,
+		"client_id": 8684,
+		"value": 126.62,
+		"datetime": "2020-09-30 07:05:26",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 861,
+		"merchand_id": 20,
+		"client_id": 2000,
+		"value": 65.75,
+		"datetime": "2022-06-01 10:20:41",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 862,
+		"merchand_id": 14,
+		"client_id": 9057,
+		"value": 62.78,
+		"datetime": "2020-10-17 00:38:02",
+		"status": "Pendente"
+	},
+	{
+		"id": 863,
+		"merchand_id": 40,
+		"client_id": 7554,
+		"value": 94.63,
+		"datetime": "2021-10-09 20:04:30",
+		"status": "Pendente"
+	},
+	{
+		"id": 864,
+		"merchand_id": 27,
+		"client_id": 7190,
+		"value": 93.37,
+		"datetime": "2020-08-26 23:56:41",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 865,
+		"merchand_id": 43,
+		"client_id": 7389,
+		"value": 115.77,
+		"datetime": "2020-11-26 09:19:13",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 866,
+		"merchand_id": 29,
+		"client_id": 1631,
+		"value": 82.89,
+		"datetime": "2022-01-26 16:49:35",
+		"status": "Pendente"
+	},
+	{
+		"id": 867,
+		"merchand_id": 33,
+		"client_id": 751,
+		"value": 85.74,
+		"datetime": "2022-07-09 03:46:21",
+		"status": "Aprovada"
+	},
+	{
+		"id": 868,
+		"merchand_id": 45,
+		"client_id": 1439,
+		"value": 125.29,
+		"datetime": "2021-10-15 22:01:55",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 869,
+		"merchand_id": 18,
+		"client_id": 9095,
+		"value": 100.00,
+		"datetime": "2021-02-25 23:28:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 870,
+		"merchand_id": 24,
+		"client_id": 3169,
+		"value": 95.45,
+		"datetime": "2020-10-11 09:31:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 871,
+		"merchand_id": 13,
+		"client_id": 7304,
+		"value": 93.74,
+		"datetime": "2020-10-20 04:29:34",
+		"status": "Pendente"
+	},
+	{
+		"id": 872,
+		"merchand_id": 32,
+		"client_id": 1260,
+		"value": 73.71,
+		"datetime": "2021-03-28 09:20:27",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 873,
+		"merchand_id": 33,
+		"client_id": 8417,
+		"value": 106.49,
+		"datetime": "2022-05-02 15:17:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 874,
+		"merchand_id": 7,
+		"client_id": 345,
+		"value": 101.86,
+		"datetime": "2021-02-11 04:28:10",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 875,
+		"merchand_id": 27,
+		"client_id": 5255,
+		"value": 66.92,
+		"datetime": "2021-09-26 17:50:32",
+		"status": "Pendente"
+	},
+	{
+		"id": 876,
+		"merchand_id": 49,
+		"client_id": 1976,
+		"value": 101.07,
+		"datetime": "2021-01-16 21:09:20",
+		"status": "Pendente"
+	},
+	{
+		"id": 877,
+		"merchand_id": 4,
+		"client_id": 5346,
+		"value": 97.96,
+		"datetime": "2022-04-12 23:15:28",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 878,
+		"merchand_id": 22,
+		"client_id": 6708,
+		"value": 56.15,
+		"datetime": "2021-01-27 16:57:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 879,
+		"merchand_id": 16,
+		"client_id": 2035,
+		"value": 70.24,
+		"datetime": "2021-01-18 20:14:15",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 880,
+		"merchand_id": 2,
+		"client_id": 3496,
+		"value": 79.96,
+		"datetime": "2021-08-13 21:02:46",
+		"status": "Aprovada"
+	},
+	{
+		"id": 881,
+		"merchand_id": 27,
+		"client_id": 7628,
+		"value": 91.56,
+		"datetime": "2022-06-11 03:37:33",
+		"status": "Aprovada"
+	},
+	{
+		"id": 882,
+		"merchand_id": 49,
+		"client_id": 6511,
+		"value": 118.50,
+		"datetime": "2021-02-24 04:18:39",
+		"status": "Pendente"
+	},
+	{
+		"id": 883,
+		"merchand_id": 19,
+		"client_id": 3225,
+		"value": 136.74,
+		"datetime": "2020-11-20 22:38:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 884,
+		"merchand_id": 11,
+		"client_id": 8642,
+		"value": 112.81,
+		"datetime": "2021-03-25 18:06:43",
+		"status": "Pendente"
+	},
+	{
+		"id": 885,
+		"merchand_id": 16,
+		"client_id": 9679,
+		"value": 81.51,
+		"datetime": "2021-01-23 16:40:23",
+		"status": "Pendente"
+	},
+	{
+		"id": 886,
+		"merchand_id": 9,
+		"client_id": 2681,
+		"value": 74.67,
+		"datetime": "2021-09-21 05:11:58",
+		"status": "Pendente"
+	},
+	{
+		"id": 887,
+		"merchand_id": 49,
+		"client_id": 3931,
+		"value": 92.15,
+		"datetime": "2022-01-27 11:19:40",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 888,
+		"merchand_id": 15,
+		"client_id": 152,
+		"value": 130.74,
+		"datetime": "2021-02-26 16:42:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 889,
+		"merchand_id": 30,
+		"client_id": 3668,
+		"value": 139.59,
+		"datetime": "2022-01-11 12:38:30",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 890,
+		"merchand_id": 22,
+		"client_id": 2314,
+		"value": 94.37,
+		"datetime": "2020-12-08 10:23:17",
+		"status": "Pendente"
+	},
+	{
+		"id": 891,
+		"merchand_id": 7,
+		"client_id": 7475,
+		"value": 66.05,
+		"datetime": "2020-09-21 08:24:04",
+		"status": "Pendente"
+	},
+	{
+		"id": 892,
+		"merchand_id": 7,
+		"client_id": 720,
+		"value": 128.86,
+		"datetime": "2021-11-28 02:32:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 893,
+		"merchand_id": 49,
+		"client_id": 7698,
+		"value": 140.74,
+		"datetime": "2020-11-27 06:29:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 894,
+		"merchand_id": 19,
+		"client_id": 4785,
+		"value": 101.87,
+		"datetime": "2020-10-05 11:20:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 895,
+		"merchand_id": 7,
+		"client_id": 7891,
+		"value": 76.74,
+		"datetime": "2020-10-22 09:03:48",
+		"status": "Aprovada"
+	},
+	{
+		"id": 896,
+		"merchand_id": 37,
+		"client_id": 1615,
+		"value": 122.22,
+		"datetime": "2022-02-20 15:54:13",
+		"status": "Pendente"
+	},
+	{
+		"id": 897,
+		"merchand_id": 23,
+		"client_id": 479,
+		"value": 95.05,
+		"datetime": "2022-07-30 05:36:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 898,
+		"merchand_id": 5,
+		"client_id": 769,
+		"value": 78.09,
+		"datetime": "2020-09-24 11:12:28",
+		"status": "Aprovada"
+	},
+	{
+		"id": 899,
+		"merchand_id": 42,
+		"client_id": 438,
+		"value": 110.67,
+		"datetime": "2020-12-21 21:54:36",
+		"status": "Aprovada"
+	},
+	{
+		"id": 900,
+		"merchand_id": 28,
+		"client_id": 475,
+		"value": 95.19,
+		"datetime": "2021-04-06 06:13:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 901,
+		"merchand_id": 13,
+		"client_id": 2487,
+		"value": 131.50,
+		"datetime": "2022-06-24 00:50:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 902,
+		"merchand_id": 37,
+		"client_id": 7829,
+		"value": 102.03,
+		"datetime": "2021-09-14 08:06:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 903,
+		"merchand_id": 10,
+		"client_id": 7348,
+		"value": 165.22,
+		"datetime": "2021-09-20 10:13:17",
+		"status": "Pendente"
+	},
+	{
+		"id": 904,
+		"merchand_id": 30,
+		"client_id": 6564,
+		"value": 50.49,
+		"datetime": "2022-07-26 12:17:11",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 905,
+		"merchand_id": 46,
+		"client_id": 1676,
+		"value": 60.18,
+		"datetime": "2021-04-23 03:10:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 906,
+		"merchand_id": 5,
+		"client_id": 6347,
+		"value": 119.92,
+		"datetime": "2022-04-18 03:55:54",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 907,
+		"merchand_id": 21,
+		"client_id": 9846,
+		"value": 120.26,
+		"datetime": "2021-11-19 13:39:23",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 908,
+		"merchand_id": 38,
+		"client_id": 3031,
+		"value": 124.61,
+		"datetime": "2021-06-22 02:35:54",
+		"status": "Aprovada"
+	},
+	{
+		"id": 909,
+		"merchand_id": 41,
+		"client_id": 6837,
+		"value": 107.96,
+		"datetime": "2022-05-13 05:41:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 910,
+		"merchand_id": 19,
+		"client_id": 7243,
+		"value": 81.77,
+		"datetime": "2021-02-03 16:32:57",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 911,
+		"merchand_id": 27,
+		"client_id": 4149,
+		"value": 44.31,
+		"datetime": "2020-12-10 16:12:25",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 912,
+		"merchand_id": 49,
+		"client_id": 6866,
+		"value": 113.83,
+		"datetime": "2020-12-10 08:05:40",
+		"status": "Pendente"
+	},
+	{
+		"id": 913,
+		"merchand_id": 48,
+		"client_id": 7248,
+		"value": 134.03,
+		"datetime": "2021-03-05 00:18:55",
+		"status": "Pendente"
+	},
+	{
+		"id": 914,
+		"merchand_id": 35,
+		"client_id": 8863,
+		"value": 80.28,
+		"datetime": "2021-03-06 12:19:40",
+		"status": "Aprovada"
+	},
+	{
+		"id": 915,
+		"merchand_id": 7,
+		"client_id": 3433,
+		"value": 120.64,
+		"datetime": "2022-01-21 08:03:27",
+		"status": "Aprovada"
+	},
+	{
+		"id": 916,
+		"merchand_id": 45,
+		"client_id": 1163,
+		"value": 161.13,
+		"datetime": "2021-07-12 16:01:52",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 917,
+		"merchand_id": 9,
+		"client_id": 3055,
+		"value": 114.81,
+		"datetime": "2021-08-24 19:10:45",
+		"status": "Aprovada"
+	},
+	{
+		"id": 918,
+		"merchand_id": 41,
+		"client_id": 7590,
+		"value": 92.13,
+		"datetime": "2021-04-16 10:50:23",
+		"status": "Pendente"
+	},
+	{
+		"id": 919,
+		"merchand_id": 39,
+		"client_id": 8128,
+		"value": 140.73,
+		"datetime": "2020-12-19 21:15:12",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 920,
+		"merchand_id": 6,
+		"client_id": 5370,
+		"value": 145.03,
+		"datetime": "2021-12-01 13:53:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 921,
+		"merchand_id": 29,
+		"client_id": 8769,
+		"value": 75.95,
+		"datetime": "2020-12-16 09:09:35",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 922,
+		"merchand_id": 49,
+		"client_id": 1563,
+		"value": 91.39,
+		"datetime": "2021-03-04 08:27:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 923,
+		"merchand_id": 34,
+		"client_id": 7275,
+		"value": 97.39,
+		"datetime": "2021-11-26 11:30:56",
+		"status": "Aprovada"
+	},
+	{
+		"id": 924,
+		"merchand_id": 45,
+		"client_id": 7945,
+		"value": 65.37,
+		"datetime": "2022-07-02 00:31:48",
+		"status": "Pendente"
+	},
+	{
+		"id": 925,
+		"merchand_id": 30,
+		"client_id": 2791,
+		"value": 52.92,
+		"datetime": "2021-03-01 15:29:47",
+		"status": "Aprovada"
+	},
+	{
+		"id": 926,
+		"merchand_id": 9,
+		"client_id": 99,
+		"value": 102.22,
+		"datetime": "2022-04-28 13:24:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 927,
+		"merchand_id": 26,
+		"client_id": 9494,
+		"value": 94.59,
+		"datetime": "2021-11-10 00:42:06",
+		"status": "Pendente"
+	},
+	{
+		"id": 928,
+		"merchand_id": 11,
+		"client_id": 636,
+		"value": 83.09,
+		"datetime": "2021-04-08 22:45:51",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 929,
+		"merchand_id": 4,
+		"client_id": 6177,
+		"value": 101.60,
+		"datetime": "2022-04-26 09:27:26",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 930,
+		"merchand_id": 8,
+		"client_id": 8319,
+		"value": 87.59,
+		"datetime": "2021-10-08 23:52:56",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 931,
+		"merchand_id": 33,
+		"client_id": 1635,
+		"value": 93.68,
+		"datetime": "2022-01-15 21:24:47",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 932,
+		"merchand_id": 38,
+		"client_id": 3753,
+		"value": 81.74,
+		"datetime": "2021-11-19 10:42:44",
+		"status": "Pendente"
+	},
+	{
+		"id": 933,
+		"merchand_id": 9,
+		"client_id": 3159,
+		"value": 126.40,
+		"datetime": "2021-09-10 01:49:48",
+		"status": "Pendente"
+	},
+	{
+		"id": 934,
+		"merchand_id": 22,
+		"client_id": 5450,
+		"value": 117.20,
+		"datetime": "2022-07-17 15:21:39",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 935,
+		"merchand_id": 37,
+		"client_id": 6563,
+		"value": 107.88,
+		"datetime": "2020-12-26 09:21:37",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 936,
+		"merchand_id": 44,
+		"client_id": 1195,
+		"value": 30.70,
+		"datetime": "2021-07-23 10:01:17",
+		"status": "Aprovada"
+	},
+	{
+		"id": 937,
+		"merchand_id": 47,
+		"client_id": 2615,
+		"value": 130.28,
+		"datetime": "2021-07-14 20:04:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 938,
+		"merchand_id": 49,
+		"client_id": 41,
+		"value": 120.04,
+		"datetime": "2021-05-19 02:35:37",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 939,
+		"merchand_id": 4,
+		"client_id": 6529,
+		"value": 131.92,
+		"datetime": "2021-04-05 17:23:39",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 940,
+		"merchand_id": 50,
+		"client_id": 4226,
+		"value": 129.01,
+		"datetime": "2021-09-10 16:38:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 941,
+		"merchand_id": 32,
+		"client_id": 2693,
+		"value": 120.32,
+		"datetime": "2022-07-31 23:15:50",
+		"status": "Aprovada"
+	},
+	{
+		"id": 942,
+		"merchand_id": 31,
+		"client_id": 5618,
+		"value": 98.88,
+		"datetime": "2022-03-21 03:46:29",
+		"status": "Pendente"
+	},
+	{
+		"id": 943,
+		"merchand_id": 42,
+		"client_id": 6456,
+		"value": 69.71,
+		"datetime": "2021-01-30 14:04:37",
+		"status": "Pendente"
+	},
+	{
+		"id": 944,
+		"merchand_id": 23,
+		"client_id": 2306,
+		"value": 90.00,
+		"datetime": "2021-01-04 21:26:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 945,
+		"merchand_id": 25,
+		"client_id": 202,
+		"value": 144.41,
+		"datetime": "2021-02-20 02:01:57",
+		"status": "Pendente"
+	},
+	{
+		"id": 946,
+		"merchand_id": 49,
+		"client_id": 3309,
+		"value": 144.77,
+		"datetime": "2021-05-03 08:42:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 947,
+		"merchand_id": 32,
+		"client_id": 9873,
+		"value": 132.94,
+		"datetime": "2022-07-05 20:25:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 948,
+		"merchand_id": 16,
+		"client_id": 3758,
+		"value": 123.02,
+		"datetime": "2020-11-15 01:15:13",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 949,
+		"merchand_id": 29,
+		"client_id": 9691,
+		"value": 84.77,
+		"datetime": "2021-08-10 16:14:59",
+		"status": "Aprovada"
+	},
+	{
+		"id": 950,
+		"merchand_id": 15,
+		"client_id": 1570,
+		"value": 150.25,
+		"datetime": "2021-03-06 10:22:44",
+		"status": "Aprovada"
+	},
+	{
+		"id": 951,
+		"merchand_id": 20,
+		"client_id": 6335,
+		"value": 108.56,
+		"datetime": "2022-07-16 13:28:35",
+		"status": "Aprovada"
+	},
+	{
+		"id": 952,
+		"merchand_id": 40,
+		"client_id": 9207,
+		"value": 87.77,
+		"datetime": "2021-08-24 00:23:25",
+		"status": "Pendente"
+	},
+	{
+		"id": 953,
+		"merchand_id": 8,
+		"client_id": 4011,
+		"value": 73.84,
+		"datetime": "2021-03-12 12:42:25",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 954,
+		"merchand_id": 8,
+		"client_id": 485,
+		"value": 131.14,
+		"datetime": "2021-10-20 12:50:12",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 955,
+		"merchand_id": 20,
+		"client_id": 877,
+		"value": 120.47,
+		"datetime": "2021-11-17 21:47:19",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 956,
+		"merchand_id": 19,
+		"client_id": 861,
+		"value": 31.37,
+		"datetime": "2022-05-04 10:06:45",
+		"status": "Pendente"
+	},
+	{
+		"id": 957,
+		"merchand_id": 23,
+		"client_id": 1478,
+		"value": 63.11,
+		"datetime": "2021-02-23 07:58:43",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 958,
+		"merchand_id": 46,
+		"client_id": 4401,
+		"value": 97.12,
+		"datetime": "2021-08-14 00:38:23",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 959,
+		"merchand_id": 13,
+		"client_id": 7708,
+		"value": 120.97,
+		"datetime": "2021-10-22 18:53:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 960,
+		"merchand_id": 7,
+		"client_id": 6527,
+		"value": 65.77,
+		"datetime": "2022-04-11 01:53:12",
+		"status": "Aprovada"
+	},
+	{
+		"id": 961,
+		"merchand_id": 46,
+		"client_id": 4851,
+		"value": 128.56,
+		"datetime": "2022-04-09 15:53:59",
+		"status": "Pendente"
+	},
+	{
+		"id": 962,
+		"merchand_id": 49,
+		"client_id": 5534,
+		"value": 105.57,
+		"datetime": "2021-04-28 18:41:02",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 963,
+		"merchand_id": 6,
+		"client_id": 92,
+		"value": 117.33,
+		"datetime": "2022-01-15 18:29:30",
+		"status": "Aprovada"
+	},
+	{
+		"id": 964,
+		"merchand_id": 26,
+		"client_id": 184,
+		"value": 99.91,
+		"datetime": "2020-11-04 16:19:19",
+		"status": "Pendente"
+	},
+	{
+		"id": 965,
+		"merchand_id": 46,
+		"client_id": 8446,
+		"value": 63.71,
+		"datetime": "2022-03-29 19:20:47",
+		"status": "Pendente"
+	},
+	{
+		"id": 966,
+		"merchand_id": 30,
+		"client_id": 9520,
+		"value": 66.37,
+		"datetime": "2022-06-29 13:13:32",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 967,
+		"merchand_id": 15,
+		"client_id": 2120,
+		"value": 66.56,
+		"datetime": "2022-07-11 14:26:57",
+		"status": "Aprovada"
+	},
+	{
+		"id": 968,
+		"merchand_id": 2,
+		"client_id": 4904,
+		"value": 102.16,
+		"datetime": "2021-12-15 10:04:07",
+		"status": "Aprovada"
+	},
+	{
+		"id": 969,
+		"merchand_id": 28,
+		"client_id": 5051,
+		"value": 82.80,
+		"datetime": "2020-08-07 12:46:56",
+		"status": "Pendente"
+	},
+	{
+		"id": 970,
+		"merchand_id": 19,
+		"client_id": 9835,
+		"value": 99.63,
+		"datetime": "2022-03-07 00:19:37",
+		"status": "Aprovada"
+	},
+	{
+		"id": 971,
+		"merchand_id": 37,
+		"client_id": 2584,
+		"value": 46.36,
+		"datetime": "2021-02-12 12:05:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 972,
+		"merchand_id": 48,
+		"client_id": 6487,
+		"value": 114.54,
+		"datetime": "2022-07-30 07:41:11",
+		"status": "Aprovada"
+	},
+	{
+		"id": 973,
+		"merchand_id": 44,
+		"client_id": 9007,
+		"value": 101.34,
+		"datetime": "2021-01-20 20:50:14",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 974,
+		"merchand_id": 18,
+		"client_id": 1261,
+		"value": 87.21,
+		"datetime": "2021-01-06 12:29:05",
+		"status": "Pendente"
+	},
+	{
+		"id": 975,
+		"merchand_id": 24,
+		"client_id": 3043,
+		"value": 87.78,
+		"datetime": "2021-07-18 02:57:36",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 976,
+		"merchand_id": 9,
+		"client_id": 3158,
+		"value": 102.69,
+		"datetime": "2021-03-04 11:05:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 977,
+		"merchand_id": 34,
+		"client_id": 4702,
+		"value": 125.39,
+		"datetime": "2022-03-07 20:32:51",
+		"status": "Pendente"
+	},
+	{
+		"id": 978,
+		"merchand_id": 40,
+		"client_id": 7886,
+		"value": 93.81,
+		"datetime": "2021-01-09 14:05:43",
+		"status": "Aprovada"
+	},
+	{
+		"id": 979,
+		"merchand_id": 30,
+		"client_id": 8829,
+		"value": 90.49,
+		"datetime": "2021-09-01 14:10:55",
+		"status": "Aprovada"
+	},
+	{
+		"id": 980,
+		"merchand_id": 41,
+		"client_id": 5061,
+		"value": 63.42,
+		"datetime": "2021-03-20 12:58:41",
+		"status": "Aprovada"
+	},
+	{
+		"id": 981,
+		"merchand_id": 20,
+		"client_id": 6019,
+		"value": 116.08,
+		"datetime": "2021-03-26 10:51:53",
+		"status": "Aprovada"
+	},
+	{
+		"id": 982,
+		"merchand_id": 7,
+		"client_id": 1192,
+		"value": 114.53,
+		"datetime": "2021-04-17 06:55:44",
+		"status": "Aprovada"
+	},
+	{
+		"id": 983,
+		"merchand_id": 39,
+		"client_id": 5915,
+		"value": 100.53,
+		"datetime": "2021-05-20 20:56:05",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 984,
+		"merchand_id": 31,
+		"client_id": 6634,
+		"value": 106.84,
+		"datetime": "2021-02-06 12:50:01",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 985,
+		"merchand_id": 13,
+		"client_id": 2154,
+		"value": 49.78,
+		"datetime": "2020-11-07 21:11:06",
+		"status": "Aprovada"
+	},
+	{
+		"id": 986,
+		"merchand_id": 2,
+		"client_id": 2132,
+		"value": 132.96,
+		"datetime": "2021-01-22 03:27:03",
+		"status": "Aprovada"
+	},
+	{
+		"id": 987,
+		"merchand_id": 10,
+		"client_id": 87,
+		"value": 71.64,
+		"datetime": "2022-07-31 22:14:08",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 988,
+		"merchand_id": 49,
+		"client_id": 8648,
+		"value": 81.38,
+		"datetime": "2022-06-25 10:50:27",
+		"status": "Pendente"
+	},
+	{
+		"id": 989,
+		"merchand_id": 12,
+		"client_id": 6403,
+		"value": 112.43,
+		"datetime": "2021-05-21 14:45:53",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 990,
+		"merchand_id": 43,
+		"client_id": 1434,
+		"value": 89.46,
+		"datetime": "2022-03-20 12:54:13",
+		"status": "Aprovada"
+	},
+	{
+		"id": 991,
+		"merchand_id": 34,
+		"client_id": 8749,
+		"value": 111.64,
+		"datetime": "2021-06-12 12:38:41",
+		"status": "Pendente"
+	},
+	{
+		"id": 992,
+		"merchand_id": 47,
+		"client_id": 6877,
+		"value": 59.11,
+		"datetime": "2022-06-26 08:47:22",
+		"status": "Pendente"
+	},
+	{
+		"id": 993,
+		"merchand_id": 19,
+		"client_id": 1039,
+		"value": 92.31,
+		"datetime": "2022-04-06 16:27:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 994,
+		"merchand_id": 37,
+		"client_id": 5507,
+		"value": 106.35,
+		"datetime": "2020-11-19 09:03:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 995,
+		"merchand_id": 19,
+		"client_id": 9908,
+		"value": 45.33,
+		"datetime": "2021-01-29 07:40:17",
+		"status": "Pendente"
+	},
+	{
+		"id": 996,
+		"merchand_id": 13,
+		"client_id": 8386,
+		"value": 117.93,
+		"datetime": "2020-10-31 05:33:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 997,
+		"merchand_id": 46,
+		"client_id": 9785,
+		"value": 50.53,
+		"datetime": "2022-04-25 21:23:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 998,
+		"merchand_id": 33,
+		"client_id": 5291,
+		"value": 113.05,
+		"datetime": "2020-09-02 04:44:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 999,
+		"merchand_id": 6,
+		"client_id": 9369,
+		"value": 87.86,
+		"datetime": "2021-06-26 14:09:20",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 1000,
+		"merchand_id": 46,
+		"client_id": 7026,
+		"value": 114.02,
+		"datetime": "2022-07-07 03:31:24",
+		"status": "Pendente"
+	}
+]
