@@ -7998,5 +7998,125 @@
 		"value": 114.02,
 		"datetime": "2022-07-07 03:31:24",
 		"status": "Pendente"
+	},
+	{
+		"id": 1001,
+		"merchand_id": 45,
+		"client_id": 54,
+		"value": 109.46,
+		"datetime": "2022-08-30 12:54:13",
+		"status": "Aprovada"
+	},
+	{
+		"id": 1002,
+		"merchand_id": 54,
+		"client_id": 2,
+		"value": 1141.64,
+		"datetime": "2022-08-30 12:38:41",
+		"status": "Pendente"
+	},
+	{
+		"id": 1003,
+		"merchand_id": 22,
+		"client_id": 54,
+		"value": 595.11,
+		"datetime": "2022-08-29 08:47:22",
+		"status": "Aprovada"
+	},
+	{
+		"id": 1004,
+		"merchand_id": 3,
+		"client_id": 1039,
+		"value": 924.31,
+		"datetime": "2022-08-29 16:27:14",
+		"status": "Aprovada"
+	},
+	{
+		"id": 1005,
+		"merchand_id": 7,
+		"client_id": 557,
+		"value": 106.35,
+		"datetime": "2022-08-28 19:03:03",
+		"status": "Pendente"
+	},
+	{
+		"id": 1006,
+		"merchand_id": 23,
+		"client_id": 998,
+		"value": 45.33,
+		"datetime": "2022-08-27 07:40:17",
+		"status": "Pendente"
+	},
+	{
+		"id": 1007,
+		"merchand_id": 1,
+		"client_id": 838,
+		"value": 1171.93,
+		"datetime": "2022-08-26 05:33:51",
+		"status": "Aprovada"
+	},
+	{
+		"id": 1008,
+		"merchand_id": 46,
+		"client_id": 9785,
+		"value": 504.53,
+		"datetime": "2022-08-25 21:23:21",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 1009,
+		"merchand_id": 33,
+		"client_id": 5291,
+		"value": 113.05,
+		"datetime": "2022-08-24 04:44:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 1010,
+		"merchand_id": 6,
+		"client_id": 9369,
+		"value": 87.86,
+		"datetime": "2022-08-23 14:09:20",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 1011,
+		"merchand_id": 46,
+		"client_id": 7026,
+		"value": 114.02,
+		"datetime": "2022-08-28 03:31:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 1012,
+		"merchand_id": 23,
+		"client_id": 51,
+		"value": 1133.05,
+		"datetime": "2022-08-30 10:44:00",
+		"status": "Aprovada"
+	},
+	{
+		"id": 1013,
+		"merchand_id": 26,
+		"client_id": 9,
+		"value": 873.86,
+		"datetime": "2022-08-30 09:09:20",
+		"status": "Rejeitada"
+	},
+	{
+		"id": 1014,
+		"merchand_id": 12,
+		"client_id": 90,
+		"value": 1134.02,
+		"datetime": "2022-08-30 07:01:24",
+		"status": "Pendente"
+	},
+	{
+		"id": 1015,
+		"merchand_id": 123,
+		"client_id": 21,
+		"value": 14.02,
+		"datetime": "2022-08-30 04:01:24",
+		"status": "Pendente"
 	}
 ]
