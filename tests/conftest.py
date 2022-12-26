@@ -1,7 +1,5 @@
 import pytest
-
 from django.contrib.auth import get_user_model
-
 from rest_framework.test import APIClient
 
 
@@ -16,10 +14,10 @@ def user_data():
     User not yet registered
     """
     return dict(
-        username='user_bycoders',
+        username='user_dashboard',
         first_name='User',
-        last_name='Bycoders',
-        email='user@bycoders.com.br',
+        last_name='Dashboard',
+        email='user@dashboard.com.br',
         password='12345'
     )
 

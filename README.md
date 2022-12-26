@@ -1,10 +1,10 @@
 # Run
 
 ```
-git clone https://github.com/ByCodersTec/bc-dashboard-api.git
+git clone https://github.com/cardosorrenan/dashboard-api.git
 ```
 ```
-cd /bc-dashboard-api
+cd /dashboard-api
 ```
 ```
 git checkout develop
